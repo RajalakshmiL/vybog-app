@@ -1,0 +1,3122 @@
+{
+    "menuDatas": {
+        "menuLists": [
+            {
+                "pageName": "Dashboard",
+                "pagePath": "/dashboard",
+                "pageLinkName": "dashboard",
+                "pageIndex": 0,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Candidates",
+                "pagePath": "/candidates",
+                "pageLinkName": "candidates",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Manual Creation",
+                "pagePath": "/create-candidate",
+                "pageLinkName": "create-candidate",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Candidates"
+            },
+            {
+                "pageName": "Import Candidate",
+                "pagePath": "/import-candidate",
+                "pageLinkName": "import-candidate",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Candidates"
+            },
+            {
+                "pageName": "Resume Upload",
+                "pagePath": "/resume-upload",
+                "pageLinkName": "resume-upload",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Candidates"
+            },
+            {
+                "pageName": "Jobs",
+                "pagePath": "/jobs",
+                "pageLinkName": "jobs",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Create Job",
+                "pagePath": "/create-job",
+                "pageLinkName": "create-job",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Jobs"
+            },
+            {
+                "pageName": "Import Job",
+                "pagePath": "",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Jobs"
+            },
+            {
+                "pageName": "Clients",
+                "pagePath": "/clients",
+                "pageLinkName": "clients",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Create Client",
+                "pagePath": "/create-client",
+                "pageLinkName": "create-client",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Clients"
+            },
+            {
+                "pageName": "Import Client",
+                "pagePath": "/import-client",
+                "pageLinkName": "import-client",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Clients"
+            },
+            {
+                "pageName": "Reports",
+                "pagePath": "",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Submit Daily Report",
+                "pagePath": "/reports",
+                "pageLinkName": "reports",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Reports"
+            },
+            {
+                "pageName": "Team Reports",
+                "pagePath": "/team-reports",
+                "pageLinkName": "team-reports",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Reports"
+            },
+            {
+                "pageName": "HR Desk",
+                "pagePath": "",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Employee List",
+                "pagePath": "/employee-list",
+                "pageLinkName": "employee-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "HR Desk"
+            },
+            {
+                "pageName": "Employee Designation",
+                "pagePath": "/add-employee-designation",
+                "pageLinkName": "add-employee-designation",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "HR Desk"
+            },
+            {
+                "pageName": "Leave",
+                "pagePath": "",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Leave History - Month Wise",
+                "pagePath": "/leave-history-monthly",
+                "pageLinkName": "leave-history-monthly",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Leave"
+            },
+            {
+                "pageName": "Leave History - Year Wise",
+                "pagePath": "/leave-history-yearly",
+                "pageLinkName": "leave-history-yearly",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Leave"
+            },
+            {
+                "pageName": "Country",
+                "pagePath": "/country-list",
+                "pageLinkName": "country-list",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "State List",
+                "pagePath": "/state-list",
+                "pageLinkName": "state-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Country"
+            },
+            {
+                "pageName": "City List",
+                "pagePath": "/city-list",
+                "pageLinkName": "city-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Country"
+            },
+            {
+                "pageName": "Locality List",
+                "pagePath": "/locality-list",
+                "pageLinkName": "locality-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Country"
+            },
+            {
+                "pageName": "Masters",
+                "pagePath": "-",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": "-"
+            },
+            {
+                "pageName": "Skills List",
+                "pagePath": "/skills-list",
+                "pageLinkName": "skills-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Masters"
+            },
+            {
+                "pageName": "Roles List",
+                "pagePath": "/roles-list",
+                "pageLinkName": "roles-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Masters"
+            },
+            {
+                "pageName": "Call Stages",
+                "pagePath": "/call-stages",
+                "pageLinkName": "call-stages",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": "-"
+            },
+            {
+                "pageName": "Menu's",
+                "pagePath": "-",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": "-"
+            },
+            {
+                "pageName": "Menu Mapping",
+                "pagePath": "/menu-mapping",
+                "pageLinkName": "menu-mapping",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Menu's"
+            },
+            {
+                "pageName": "User Actions",
+                "pagePath": "/user-actions",
+                "pageLinkName": "user-actions",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Menu's"
+            },
+            {
+                "pageName": "Admin",
+                "pagePath": "",
+                "pageLinkName": "-",
+                "pageIndex": 1,
+                "subMenu": false,
+                "subMenuParent": ""
+            },
+            {
+                "pageName": "Connections",
+                "pagePath": "/connection-list",
+                "pageLinkName": "connection-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Admin"
+            },
+            {
+                "pageName": "Customer Priority Access",
+                "pagePath": "/customer-priority-access",
+                "pageLinkName": "customer-priority-access",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Admin"
+            },
+            {
+                "pageName": "Email Template List",
+                "pagePath": "/email-template-list",
+                "pageLinkName": "email-template-list",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Admin"
+            },
+            {
+                "pageName": "Add IP Address",
+                "pagePath": "/add-ip-address",
+                "pageLinkName": "add-ip-address",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Admin"
+            },
+            {
+                "pageName": "External Login Track",
+                "pagePath": "/external-login-track",
+                "pageLinkName": "external-login-track",
+                "pageIndex": 1,
+                "subMenu": true,
+                "subMenuParent": "Admin"
+            }
+        ],
+        "UserActionsData": [
+            {
+                "userActions": "Export",
+                "subMenu": false
+            },
+            {
+                "userActions": "Export Overall Candidate List",
+                "subMenu": true
+            },
+            {
+                "userActions": "Export Overall Jobs List",
+                "subMenu": true
+            },
+            {
+                "userActions": "Export Overall Clients List",
+                "subMenu": true
+            },
+            {
+                "userActions": "Report",
+                "subMenu": false
+            },
+            {
+                "userActions": "Assign Submit Daily Report",
+                "subMenu": true
+            },
+            {
+                "userActions": "Bulk Delete",
+                "subMenu": false
+            },
+            {
+                "userActions": "Candidate's Bulk Delete",
+                "subMenu": true
+            },
+            {
+                "userActions": "Job's Bulk Delete",
+                "subMenu": true
+            },
+            {
+                "userActions": "Client's Bulk Delete",
+                "subMenu": true
+            },
+            {
+                "userActions": "Resume Parser",
+                "subMenu": false
+            },
+            {
+                "userActions": "Candidate's Resume parser",
+                "subMenu": true
+            }
+        ],
+        "CallStages": [
+            {
+                "callStageName": "Whatsapped",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Emailed",
+                "Active": true,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Called",
+                "Active": false,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Left Voicemail",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Meeting Scheduled",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Follow-Up Scheduled",
+                "Active": false,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Interview Conducted",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Offered Job",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Offer Accepted",
+                "Active": true,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Rejected Offer",
+                "Active": false,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Contract Signed",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Reference Check",
+                "Active": false,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Onboarding Started",
+                "Active": true,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Onboarding Completed",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Hired",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Training Scheduled",
+                "Active": true,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Training Completed",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Probation Period Started",
+                "Active": false,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Probation Period Completed",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Performance Review",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Promotion Discussion",
+                "Active": false,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Salary Negotiation",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Resignation Submitted",
+                "Active": true,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Exit Interview Scheduled",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Exit Interview Conducted",
+                "Active": false,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Final Settlement",
+                "Active": true,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Feedback Provided",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Referral Given",
+                "Active": true,
+                "DashboardView": true
+            },
+            {
+                "callStageName": "Project Assignment",
+                "Active": false,
+                "DashboardView": false
+            },
+            {
+                "callStageName": "Project Completed",
+                "Active": true,
+                "DashboardView": true
+            }
+        ],
+        "AddNewSkills": [
+            {
+                "skillName": "React Js",
+                "skillType": "IT",
+                "Active": true
+            },
+            {
+                "skillName": "Python",
+                "skillType": "Programming",
+                "Active": false
+            },
+            {
+                "skillName": "Project Management",
+                "skillType": "Management",
+                "Active": true
+            },
+            {
+                "skillName": "Data Analysis",
+                "skillType": "Data Science",
+                "Active": true
+            },
+            {
+                "skillName": "Public Speaking",
+                "skillType": "Communication",
+                "Active": true
+            },
+            {
+                "skillName": "Machine Learning",
+                "skillType": "AI",
+                "Active": false
+            },
+            {
+                "skillName": "Digital Marketing",
+                "skillType": "Marketing",
+                "Active": true
+            },
+            {
+                "skillName": "Graphic Design",
+                "skillType": "Design",
+                "Active": true
+            },
+            {
+                "skillName": "JavaScript",
+                "skillType": "Programming",
+                "Active": false
+            },
+            {
+                "skillName": "Negotiation",
+                "skillType": "Business",
+                "Active": true
+            },
+            {
+                "skillName": "SEO Optimization",
+                "skillType": "Marketing",
+                "Active": true
+            },
+            {
+                "skillName": "Agile Methodology",
+                "skillType": "Project Management",
+                "Active": true
+            },
+            {
+                "skillName": "Cloud Computing",
+                "skillType": "IT",
+                "Active": false
+            },
+            {
+                "skillName": "Cybersecurity",
+                "skillType": "IT",
+                "Active": true
+            },
+            {
+                "skillName": "Content Writing",
+                "skillType": "Writing",
+                "Active": true
+            },
+            {
+                "skillName": "Data Visualization",
+                "skillType": "Data Science",
+                "Active": true
+            },
+            {
+                "skillName": "Sales",
+                "skillType": "Business",
+                "Active": false
+            },
+            {
+                "skillName": "Copywriting",
+                "skillType": "Marketing",
+                "Active": true
+            },
+            {
+                "skillName": "Mobile App Development",
+                "skillType": "IT",
+                "Active": true
+            },
+            {
+                "skillName": "Accounting",
+                "skillType": "Finance",
+                "Active": true
+            },
+            {
+                "skillName": "Video Editing",
+                "skillType": "Media",
+                "Active": true
+            },
+            {
+                "skillName": "Social Media Management",
+                "skillType": "Marketing",
+                "Active": true
+            },
+            {
+                "skillName": "Business Analysis",
+                "skillType": "Business",
+                "Active": true
+            },
+            {
+                "skillName": "Networking",
+                "skillType": "IT",
+                "Active": true
+            },
+            {
+                "skillName": "Artificial Intelligence",
+                "skillType": "AI",
+                "Active": true
+            },
+            {
+                "skillName": "Customer Service",
+                "skillType": "Communication",
+                "Active": true
+            },
+            {
+                "skillName": "SQL",
+                "skillType": "Database",
+                "Active": true
+            },
+            {
+                "skillName": "Blockchain",
+                "skillType": "IT",
+                "Active": true
+            },
+            {
+                "skillName": "Event Planning",
+                "skillType": "Management",
+                "Active": true
+            },
+            {
+                "skillName": "Photography",
+                "skillType": "Creative",
+                "Active": true
+            }
+        ],
+        "AddNewRoles": [
+            {
+                "roleName": "Frontend Developer",
+                "roleType": "IT",
+                "Active": true
+            },
+            {
+                "roleName": "Python Developer",
+                "roleType": "Programming",
+                "Active": false
+            },
+            {
+                "roleName": "Project Manager",
+                "roleType": "Management",
+                "Active": true
+            },
+            {
+                "roleName": "Data Analyst",
+                "roleType": "Data Science",
+                "Active": true
+            },
+            {
+                "roleName": "Public Relations Officer",
+                "roleType": "Communication",
+                "Active": true
+            },
+            {
+                "roleName": "Machine Learning Engineer",
+                "roleType": "AI",
+                "Active": false
+            },
+            {
+                "roleName": "Digital Marketing Specialist",
+                "roleType": "Marketing",
+                "Active": true
+            },
+            {
+                "roleName": "Graphic Designer",
+                "roleType": "Design",
+                "Active": true
+            },
+            {
+                "roleName": "JavaScript Developer",
+                "roleType": "Programming",
+                "Active": false
+            },
+            {
+                "roleName": "Business Analyst",
+                "roleType": "Business",
+                "Active": true
+            },
+            {
+                "roleName": "SEO Specialist",
+                "roleType": "Marketing",
+                "Active": true
+            },
+            {
+                "roleName": "Agile Coach",
+                "roleType": "Project Management",
+                "Active": true
+            },
+            {
+                "roleName": "Cloud Architect",
+                "roleType": "IT",
+                "Active": false
+            },
+            {
+                "roleName": "Cybersecurity Expert",
+                "roleType": "IT",
+                "Active": true
+            },
+            {
+                "roleName": "Content Writer",
+                "roleType": "Writing",
+                "Active": true
+            },
+            {
+                "roleName": "Data Visualization Specialist",
+                "roleType": "Data Science",
+                "Active": true
+            },
+            {
+                "roleName": "Sales Manager",
+                "roleType": "Business",
+                "Active": false
+            },
+            {
+                "roleName": "Copywriter",
+                "roleType": "Marketing",
+                "Active": true
+            },
+            {
+                "roleName": "Mobile App Developer",
+                "roleType": "IT",
+                "Active": true
+            },
+            {
+                "roleName": "Accountant",
+                "roleType": "Finance",
+                "Active": true
+            },
+            {
+                "roleName": "Video Editor",
+                "roleType": "Media",
+                "Active": true
+            },
+            {
+                "roleName": "Social Media Manager",
+                "roleType": "Marketing",
+                "Active": true
+            },
+            {
+                "roleName": "Business Analyst",
+                "roleType": "Business",
+                "Active": true
+            },
+            {
+                "roleName": "Network Engineer",
+                "roleType": "IT",
+                "Active": true
+            },
+            {
+                "roleName": "AI Specialist",
+                "roleType": "AI",
+                "Active": true
+            },
+            {
+                "roleName": "Customer Service Representative",
+                "roleType": "Communication",
+                "Active": true
+            },
+            {
+                "roleName": "Database Administrator",
+                "roleType": "Database",
+                "Active": true
+            },
+            {
+                "roleName": "Blockchain Developer",
+                "roleType": "IT",
+                "Active": true
+            },
+            {
+                "roleName": "Event Planner",
+                "roleType": "Management",
+                "Active": true
+            },
+            {
+                "roleName": "Photographer",
+                "roleType": "Creative",
+                "Active": true
+            }
+        ],
+        "CountryList": [
+            {
+                "countryName": "India",
+                "countryCode": "91",
+                "timeZone": "+05:30",
+                "zoneName": "IST",
+                "currencyCode": "INR",
+                "Active": true
+            },
+            {
+                "countryName": "United States",
+                "countryCode": "1",
+                "timeZone": "-05:00",
+                "zoneName": "EST",
+                "currencyCode": "USD",
+                "Active": true
+            },
+            {
+                "countryName": "United Kingdom",
+                "countryCode": "44",
+                "timeZone": "±00:00",
+                "zoneName": "GMT",
+                "currencyCode": "GBP",
+                "Active": true
+            },
+            {
+                "countryName": "Australia",
+                "countryCode": "61",
+                "timeZone": "+10:00",
+                "zoneName": "AEST",
+                "currencyCode": "AUD",
+                "Active": false
+            },
+            {
+                "countryName": "Canada",
+                "countryCode": "1",
+                "timeZone": "-05:00",
+                "zoneName": "EST",
+                "currencyCode": "CAD",
+                "Active": true
+            },
+            {
+                "countryName": "Germany",
+                "countryCode": "49",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "EUR",
+                "Active": false
+            },
+            {
+                "countryName": "France",
+                "countryCode": "33",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "EUR",
+                "Active": true
+            },
+            {
+                "countryName": "Japan",
+                "countryCode": "81",
+                "timeZone": "+09:00",
+                "zoneName": "JST",
+                "currencyCode": "JPY",
+                "Active": false
+            },
+            {
+                "countryName": "China",
+                "countryCode": "86",
+                "timeZone": "+08:00",
+                "zoneName": "CST",
+                "currencyCode": "CNY",
+                "Active": true
+            },
+            {
+                "countryName": "Russia",
+                "countryCode": "7",
+                "timeZone": "+03:00",
+                "zoneName": "MSK",
+                "currencyCode": "RUB",
+                "Active": true
+            },
+            {
+                "countryName": "Brazil",
+                "countryCode": "55",
+                "timeZone": "-03:00",
+                "zoneName": "BRT",
+                "currencyCode": "BRL",
+                "Active": false
+            },
+            {
+                "countryName": "South Africa",
+                "countryCode": "27",
+                "timeZone": "+02:00",
+                "zoneName": "SAST",
+                "currencyCode": "ZAR",
+                "Active": false
+            },
+            {
+                "countryName": "Italy",
+                "countryCode": "39",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "EUR",
+                "Active": true
+            },
+            {
+                "countryName": "Mexico",
+                "countryCode": "52",
+                "timeZone": "-06:00",
+                "zoneName": "CST",
+                "currencyCode": "MXN",
+                "Active": true
+            },
+            {
+                "countryName": "Spain",
+                "countryCode": "34",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "EUR",
+                "Active": false
+            },
+            {
+                "countryName": "South Korea",
+                "countryCode": "82",
+                "timeZone": "+09:00",
+                "zoneName": "KST",
+                "currencyCode": "KRW",
+                "Active": false
+            },
+            {
+                "countryName": "Argentina",
+                "countryCode": "54",
+                "timeZone": "-03:00",
+                "zoneName": "ART",
+                "currencyCode": "ARS",
+                "Active": true
+            },
+            {
+                "countryName": "Saudi Arabia",
+                "countryCode": "966",
+                "timeZone": "+03:00",
+                "zoneName": "AST",
+                "currencyCode": "SAR",
+                "Active": true
+            },
+            {
+                "countryName": "Turkey",
+                "countryCode": "90",
+                "timeZone": "+03:00",
+                "zoneName": "TRT",
+                "currencyCode": "TRY",
+                "Active": true
+            },
+            {
+                "countryName": "Netherlands",
+                "countryCode": "31",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "EUR",
+                "Active": true
+            },
+            {
+                "countryName": "Switzerland",
+                "countryCode": "41",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "CHF",
+                "Active": true
+            },
+            {
+                "countryName": "Sweden",
+                "countryCode": "46",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "SEK",
+                "Active": true
+            },
+            {
+                "countryName": "Norway",
+                "countryCode": "47",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "NOK",
+                "Active": true
+            },
+            {
+                "countryName": "New Zealand",
+                "countryCode": "64",
+                "timeZone": "+12:00",
+                "zoneName": "NZST",
+                "currencyCode": "NZD",
+                "Active": true
+            },
+            {
+                "countryName": "United Arab Emirates",
+                "countryCode": "971",
+                "timeZone": "+04:00",
+                "zoneName": "GST",
+                "currencyCode": "AED",
+                "Active": true
+            },
+            {
+                "countryName": "Singapore",
+                "countryCode": "65",
+                "timeZone": "+08:00",
+                "zoneName": "SGT",
+                "currencyCode": "SGD",
+                "Active": true
+            },
+            {
+                "countryName": "Malaysia",
+                "countryCode": "60",
+                "timeZone": "+08:00",
+                "zoneName": "MYT",
+                "currencyCode": "MYR",
+                "Active": true
+            },
+            {
+                "countryName": "Thailand",
+                "countryCode": "66",
+                "timeZone": "+07:00",
+                "zoneName": "ICT",
+                "currencyCode": "THB",
+                "Active": true
+            },
+            {
+                "countryName": "Indonesia",
+                "countryCode": "62",
+                "timeZone": "+07:00",
+                "zoneName": "WIB",
+                "currencyCode": "IDR",
+                "Active": true
+            },
+            {
+                "countryName": "Philippines",
+                "countryCode": "63",
+                "timeZone": "+08:00",
+                "zoneName": "PST",
+                "currencyCode": "PHP",
+                "Active": true
+            },
+            {
+                "countryName": "Israel",
+                "countryCode": "972",
+                "timeZone": "+02:00",
+                "zoneName": "IST",
+                "currencyCode": "ILS",
+                "Active": true
+            },
+            {
+                "countryName": "Egypt",
+                "countryCode": "20",
+                "timeZone": "+02:00",
+                "zoneName": "EET",
+                "currencyCode": "EGP",
+                "Active": true
+            },
+            {
+                "countryName": "Pakistan",
+                "countryCode": "92",
+                "timeZone": "+05:00",
+                "zoneName": "PKT",
+                "currencyCode": "PKR",
+                "Active": true
+            },
+            {
+                "countryName": "Bangladesh",
+                "countryCode": "880",
+                "timeZone": "+06:00",
+                "zoneName": "BST",
+                "currencyCode": "BDT",
+                "Active": true
+            },
+            {
+                "countryName": "Vietnam",
+                "countryCode": "84",
+                "timeZone": "+07:00",
+                "zoneName": "ICT",
+                "currencyCode": "VND",
+                "Active": true
+            },
+            {
+                "countryName": "Iran",
+                "countryCode": "98",
+                "timeZone": "+03:30",
+                "zoneName": "IRST",
+                "currencyCode": "IRR",
+                "Active": true
+            },
+            {
+                "countryName": "Iraq",
+                "countryCode": "964",
+                "timeZone": "+03:00",
+                "zoneName": "AST",
+                "currencyCode": "IQD",
+                "Active": true
+            },
+            {
+                "countryName": "Afghanistan",
+                "countryCode": "93",
+                "timeZone": "+04:30",
+                "zoneName": "AFT",
+                "currencyCode": "AFN",
+                "Active": true
+            },
+            {
+                "countryName": "Kenya",
+                "countryCode": "254",
+                "timeZone": "+03:00",
+                "zoneName": "EAT",
+                "currencyCode": "KES",
+                "Active": true
+            },
+            {
+                "countryName": "Nigeria",
+                "countryCode": "234",
+                "timeZone": "+01:00",
+                "zoneName": "WAT",
+                "currencyCode": "NGN",
+                "Active": true
+            },
+            {
+                "countryName": "Colombia",
+                "countryCode": "57",
+                "timeZone": "-05:00",
+                "zoneName": "COT",
+                "currencyCode": "COP",
+                "Active": true
+            },
+            {
+                "countryName": "Venezuela",
+                "countryCode": "58",
+                "timeZone": "-04:00",
+                "zoneName": "VET",
+                "currencyCode": "VES",
+                "Active": true
+            },
+            {
+                "countryName": "Chile",
+                "countryCode": "56",
+                "timeZone": "-03:00",
+                "zoneName": "CLT",
+                "currencyCode": "CLP",
+                "Active": true
+            },
+            {
+                "countryName": "Peru",
+                "countryCode": "51",
+                "timeZone": "-05:00",
+                "zoneName": "PET",
+                "currencyCode": "PEN",
+                "Active": true
+            },
+            {
+                "countryName": "Poland",
+                "countryCode": "48",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "PLN",
+                "Active": true
+            },
+            {
+                "countryName": "Portugal",
+                "countryCode": "351",
+                "timeZone": "+00:00",
+                "zoneName": "WET",
+                "currencyCode": "EUR",
+                "Active": true
+            },
+            {
+                "countryName": "Czech Republic",
+                "countryCode": "420",
+                "timeZone": "+01:00",
+                "zoneName": "CET",
+                "currencyCode": "CZK",
+                "Active": true
+            }
+        ],
+        "StateList": [
+            {
+                "stateName": "Tamilnadu",
+                "country": "India"
+            },
+            {
+                "stateName": "Texas",
+                "country": "USA"
+            },
+            {
+                "stateName": "Hubel",
+                "country": "China"
+            },
+            {
+                "stateName": "Maharashtra",
+                "country": "India"
+            },
+            {
+                "stateName": "California",
+                "country": "USA"
+            },
+            {
+                "stateName": "Bavaria",
+                "country": "Germany"
+            },
+            {
+                "stateName": "Ontario",
+                "country": "Canada"
+            },
+            {
+                "stateName": "Queensland",
+                "country": "Australia"
+            },
+            {
+                "stateName": "São Paulo",
+                "country": "Brazil"
+            },
+            {
+                "stateName": "Aichi",
+                "country": "Japan"
+            },
+            {
+                "stateName": "Western Cape",
+                "country": "South Africa"
+            },
+            {
+                "stateName": "Auckland",
+                "country": "New Zealand"
+            },
+            {
+                "stateName": "Bengaluru",
+                "country": "India"
+            },
+            {
+                "stateName": "Florida",
+                "country": "USA"
+            },
+            {
+                "stateName": "Guangdong",
+                "country": "China"
+            },
+            {
+                "stateName": "Quebec",
+                "country": "Canada"
+            },
+            {
+                "stateName": "New South Wales",
+                "country": "Australia"
+            },
+            {
+                "stateName": "Rio de Janeiro",
+                "country": "Brazil"
+            },
+            {
+                "stateName": "Istanbul",
+                "country": "Turkey"
+            },
+            {
+                "stateName": "Berlin",
+                "country": "Germany"
+            },
+            {
+                "stateName": "Gauteng",
+                "country": "South Africa"
+            },
+            {
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "stateName": "Haryana",
+                "country": "India"
+            },
+            {
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "stateName": "Sichuan",
+                "country": "China"
+            },
+            {
+                "stateName": "British Columbia",
+                "country": "Canada"
+            },
+            {
+                "stateName": "Karnataka",
+                "country": "India"
+            },
+            {
+                "stateName": "Nevada",
+                "country": "USA"
+            },
+            {
+                "stateName": "Lombardy",
+                "country": "Italy"
+            },
+            {
+                "stateName": "Kyoto",
+                "country": "Japan"
+            },
+            {
+                "stateName": "Moscow",
+                "country": "Russia"
+            },
+            {
+                "stateName": "Odisha",
+                "country": "India"
+            },
+            {
+                "stateName": "Alaska",
+                "country": "USA"
+            },
+            {
+                "stateName": "Jiangsu",
+                "country": "China"
+            },
+            {
+                "stateName": "Vermont",
+                "country": "USA"
+            },
+            {
+                "stateName": "Zürich",
+                "country": "Switzerland"
+            },
+            {
+                "stateName": "Seoul",
+                "country": "South Korea"
+            },
+            {
+                "stateName": "Antalya",
+                "country": "Turkey"
+            },
+            {
+                "stateName": "Punjab",
+                "country": "India"
+            },
+            {
+                "stateName": "Texas",
+                "country": "USA"
+            },
+            {
+                "stateName": "Madrid",
+                "country": "Spain"
+            },
+            {
+                "stateName": "Tuscany",
+                "country": "Italy"
+            },
+            {
+                "stateName": "Hokkaido",
+                "country": "Japan"
+            },
+            {
+                "stateName": "Saint Petersburg",
+                "country": "Russia"
+            },
+            {
+                "stateName": "Guangxi",
+                "country": "China"
+            },
+            {
+                "stateName": "Buenos Aires",
+                "country": "Argentina"
+            },
+            {
+                "stateName": "Hokkaido",
+                "country": "Japan"
+            },
+            {
+                "stateName": "Cusco",
+                "country": "Peru"
+            },
+            {
+                "stateName": "Lagos",
+                "country": "Nigeria"
+            }
+        ],
+        "CityList": [
+            {
+                "cityName": "New York",
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "cityName": "Los Angeles",
+                "stateName": "California",
+                "country": "USA"
+            },
+            {
+                "cityName": "Chicago",
+                "stateName": "Illinois",
+                "country": "USA"
+            },
+            {
+                "cityName": "Toronto",
+                "stateName": "Ontario",
+                "country": "Canada"
+            },
+            {
+                "cityName": "Vancouver",
+                "stateName": "British Columbia",
+                "country": "Canada"
+            },
+            {
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "cityName": "Birmingham",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "cityName": "Paris",
+                "stateName": "Ile-de-France",
+                "country": "France"
+            },
+            {
+                "cityName": "Lyon",
+                "stateName": "Auvergne-Rhône-Alpes",
+                "country": "France"
+            },
+            {
+                "cityName": "Berlin",
+                "stateName": "Berlin",
+                "country": "Germany"
+            },
+            {
+                "cityName": "Munich",
+                "stateName": "Bavaria",
+                "country": "Germany"
+            },
+            {
+                "cityName": "Sydney",
+                "stateName": "New South Wales",
+                "country": "Australia"
+            },
+            {
+                "cityName": "Melbourne",
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "cityName": "Tokyo",
+                "stateName": "Tokyo",
+                "country": "Japan"
+            },
+            {
+                "cityName": "Osaka",
+                "stateName": "Osaka",
+                "country": "Japan"
+            },
+            {
+                "cityName": "Mumbai",
+                "stateName": "Maharashtra",
+                "country": "India"
+            },
+            {
+                "cityName": "Bangalore",
+                "stateName": "Karnataka",
+                "country": "India"
+            },
+            {
+                "cityName": "Delhi",
+                "stateName": "Delhi",
+                "country": "India"
+            },
+            {
+                "cityName": "Chennai",
+                "stateName": "Tamil Nadu",
+                "country": "India"
+            },
+            {
+                "cityName": "Karur",
+                "stateName": "Tamil Nadu",
+                "country": "India"
+            },
+            {
+                "cityName": "Rome",
+                "stateName": "Lazio",
+                "country": "Italy"
+            },
+            {
+                "cityName": "Milan",
+                "stateName": "Lombardy",
+                "country": "Italy"
+            },
+            {
+                "cityName": "Madrid",
+                "stateName": "Community of Madrid",
+                "country": "Spain"
+            },
+            {
+                "cityName": "Barcelona",
+                "stateName": "Catalonia",
+                "country": "Spain"
+            },
+            {
+                "cityName": "Lisbon",
+                "stateName": "Lisbon",
+                "country": "Portugal"
+            },
+            {
+                "cityName": "Porto",
+                "stateName": "Porto",
+                "country": "Portugal"
+            },
+            {
+                "cityName": "Zurich",
+                "stateName": "Zurich",
+                "country": "Switzerland"
+            },
+            {
+                "cityName": "Geneva",
+                "stateName": "Geneva",
+                "country": "Switzerland"
+            },
+            {
+                "cityName": "Moscow",
+                "stateName": "Moscow",
+                "country": "Russia"
+            },
+            {
+                "cityName": "Saint Petersburg",
+                "stateName": "Leningrad",
+                "country": "Russia"
+            },
+            {
+                "cityName": "Mexico City",
+                "stateName": "Mexico City",
+                "country": "Mexico"
+            },
+            {
+                "cityName": "Guadalajara",
+                "stateName": "Jalisco",
+                "country": "Mexico"
+            },
+            {
+                "cityName": "Buenos Aires",
+                "stateName": "Buenos Aires",
+                "country": "Argentina"
+            },
+            {
+                "cityName": "Rio de Janeiro",
+                "stateName": "Rio de Janeiro",
+                "country": "Brazil"
+            },
+            {
+                "cityName": "Sao Paulo",
+                "stateName": "Sao Paulo",
+                "country": "Brazil"
+            },
+            {
+                "cityName": "Cairo",
+                "stateName": "Cairo",
+                "country": "Egypt"
+            },
+            {
+                "cityName": "Cape Town",
+                "stateName": "Western Cape",
+                "country": "South Africa"
+            },
+            {
+                "cityName": "Johannesburg",
+                "stateName": "Gauteng",
+                "country": "South Africa"
+            },
+            {
+                "cityName": "Dubai",
+                "stateName": "Dubai",
+                "country": "UAE"
+            },
+            {
+                "cityName": "Abu Dhabi",
+                "stateName": "Abu Dhabi",
+                "country": "UAE"
+            },
+            {
+                "cityName": "Bangkok",
+                "stateName": "Bangkok",
+                "country": "Thailand"
+            },
+            {
+                "cityName": "Seoul",
+                "stateName": "Seoul",
+                "country": "South Korea"
+            },
+            {
+                "cityName": "Beijing",
+                "stateName": "Beijing",
+                "country": "China"
+            },
+            {
+                "cityName": "Shanghai",
+                "stateName": "Shanghai",
+                "country": "China"
+            },
+            {
+                "cityName": "Istanbul",
+                "stateName": "Istanbul",
+                "country": "Turkey"
+            },
+            {
+                "cityName": "Ankara",
+                "stateName": "Ankara",
+                "country": "Turkey"
+            },
+            {
+                "cityName": "Athens",
+                "stateName": "Attica",
+                "country": "Greece"
+            },
+            {
+                "cityName": "Stockholm",
+                "stateName": "Stockholm",
+                "country": "Sweden"
+            },
+            {
+                "cityName": "Oslo",
+                "stateName": "Oslo",
+                "country": "Norway"
+            }
+        ],
+        "LocalityList": [
+            {
+                "LocalityName": "Downtown",
+                "cityName": "New York",
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Greenwich Village",
+                "cityName": "New York",
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Camden",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Shinjuku",
+                "cityName": "Tokyo",
+                "stateName": "Tokyo Metropolis",
+                "country": "Japan"
+            },
+            {
+                "LocalityName": "Mitte",
+                "cityName": "Berlin",
+                "stateName": "Berlin",
+                "country": "Germany"
+            },
+            {
+                "LocalityName": "Le Marais",
+                "cityName": "Paris",
+                "stateName": "Île-de-France",
+                "country": "France"
+            },
+            {
+                "LocalityName": "Centro",
+                "cityName": "Madrid",
+                "stateName": "Madrid",
+                "country": "Spain"
+            },
+            {
+                "LocalityName": "Kreuzberg",
+                "cityName": "Berlin",
+                "stateName": "Berlin",
+                "country": "Germany"
+            },
+            {
+                "LocalityName": "Chelsea",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "South Yarra",
+                "cityName": "Melbourne",
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "LocalityName": "Midtown",
+                "cityName": "Manhattan",
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Fitzrovia",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Poblado",
+                "cityName": "Medellín",
+                "stateName": "Antioquia",
+                "country": "Colombia"
+            },
+            {
+                "LocalityName": "Santa Monica",
+                "cityName": "Los Angeles",
+                "stateName": "California",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Hampstead",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Chinatown",
+                "cityName": "San Francisco",
+                "stateName": "California",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Bandra",
+                "cityName": "Mumbai",
+                "stateName": "Maharashtra",
+                "country": "India"
+            },
+            {
+                "LocalityName": "Gangnam",
+                "cityName": "Seoul",
+                "stateName": "Seoul",
+                "country": "South Korea"
+            },
+            {
+                "LocalityName": "Sukhumvit",
+                "cityName": "Bangkok",
+                "stateName": "Bangkok",
+                "country": "Thailand"
+            },
+            {
+                "LocalityName": "Deira",
+                "cityName": "Dubai",
+                "stateName": "Dubai",
+                "country": "UAE"
+            },
+            {
+                "LocalityName": "Vesterbro",
+                "cityName": "Copenhagen",
+                "stateName": "Capital Region",
+                "country": "Denmark"
+            },
+            {
+                "LocalityName": "Dadar",
+                "cityName": "Mumbai",
+                "stateName": "Maharashtra",
+                "country": "India"
+            },
+            {
+                "LocalityName": "East Village",
+                "cityName": "New York",
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Montmartre",
+                "cityName": "Paris",
+                "stateName": "Île-de-France",
+                "country": "France"
+            },
+            {
+                "LocalityName": "Marina Bay",
+                "cityName": "Singapore",
+                "stateName": "Central Region",
+                "country": "Singapore"
+            },
+            {
+                "LocalityName": "Latin Quarter",
+                "cityName": "Paris",
+                "stateName": "Île-de-France",
+                "country": "France"
+            },
+            {
+                "LocalityName": "Fremont",
+                "cityName": "Seattle",
+                "stateName": "Washington",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Balham",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Södermalm",
+                "cityName": "Stockholm",
+                "stateName": "Stockholm County",
+                "country": "Sweden"
+            },
+            {
+                "LocalityName": "CBD",
+                "cityName": "Melbourne",
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "LocalityName": "Palermo",
+                "cityName": "Buenos Aires",
+                "stateName": "Buenos Aires",
+                "country": "Argentina"
+            },
+            {
+                "LocalityName": "The Rocks",
+                "cityName": "Sydney",
+                "stateName": "New South Wales",
+                "country": "Australia"
+            },
+            {
+                "LocalityName": "Chiswick",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Southbank",
+                "cityName": "Melbourne",
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "LocalityName": "Islington",
+                "cityName": "London",
+                "stateName": "England",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Maraisburg",
+                "cityName": "Johannesburg",
+                "stateName": "Gauteng",
+                "country": "South Africa"
+            },
+            {
+                "LocalityName": "Causeway Bay",
+                "cityName": "Hong Kong",
+                "stateName": "Hong Kong Island",
+                "country": "Hong Kong"
+            },
+            {
+                "LocalityName": "Ueno",
+                "cityName": "Tokyo",
+                "stateName": "Tokyo Metropolis",
+                "country": "Japan"
+            },
+            {
+                "LocalityName": "Hollywood",
+                "cityName": "Los Angeles",
+                "stateName": "California",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Richmond",
+                "cityName": "Melbourne",
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "LocalityName": "Sentosa",
+                "cityName": "Singapore",
+                "stateName": "Central Region",
+                "country": "Singapore"
+            },
+            {
+                "LocalityName": "Upper East Side",
+                "cityName": "New York",
+                "stateName": "New York",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Clifton",
+                "cityName": "Cape Town",
+                "stateName": "Western Cape",
+                "country": "South Africa"
+            },
+            {
+                "LocalityName": "Old Town",
+                "cityName": "Edinburgh",
+                "stateName": "Scotland",
+                "country": "UK"
+            },
+            {
+                "LocalityName": "Gaslamp Quarter",
+                "cityName": "San Diego",
+                "stateName": "California",
+                "country": "USA"
+            },
+            {
+                "LocalityName": "Chinatown",
+                "cityName": "Melbourne",
+                "stateName": "Victoria",
+                "country": "Australia"
+            },
+            {
+                "LocalityName": "Little Italy",
+                "cityName": "New York",
+                "stateName": "New York",
+                "country": "USA"
+            }
+        ],
+        "ExternalLoginTrack": [
+            {
+                "employeeName": "Admin Vybog",
+                "usernameTried": "Admin",
+                "loginDate": "Sep 26, 2024 05:38 PM IST",
+                "ipAddress": "122.165.106.159"
+            },
+            {
+                "employeeName": "John Doe",
+                "usernameTried": "jdoe",
+                "loginDate": "Sep 25, 2024 09:15 AM IST",
+                "ipAddress": "192.168.1.1"
+            },
+            {
+                "employeeName": "Jane Smith",
+                "usernameTried": "jsmith",
+                "loginDate": "Sep 24, 2024 02:45 PM IST",
+                "ipAddress": "203.0.113.5"
+            },
+            {
+                "employeeName": "Robert Brown",
+                "usernameTried": "rbrown",
+                "loginDate": "Sep 23, 2024 11:30 AM IST",
+                "ipAddress": "198.51.100.23"
+            },
+            {
+                "employeeName": "Emily Davis",
+                "usernameTried": "edavis",
+                "loginDate": "Sep 22, 2024 08:20 PM IST",
+                "ipAddress": "172.16.254.1"
+            },
+            {
+                "employeeName": "Michael Wilson",
+                "usernameTried": "mwilson",
+                "loginDate": "Sep 21, 2024 04:10 PM IST",
+                "ipAddress": "10.0.0.2"
+            },
+            {
+                "employeeName": "Sarah Johnson",
+                "usernameTried": "sjohnson",
+                "loginDate": "Sep 20, 2024 07:55 AM IST",
+                "ipAddress": "203.0.113.10"
+            },
+            {
+                "employeeName": "David Lee",
+                "usernameTried": "dlee",
+                "loginDate": "Sep 19, 2024 03:25 PM IST",
+                "ipAddress": "198.51.100.45"
+            },
+            {
+                "employeeName": "Laura Martinez",
+                "usernameTried": "lmartinez",
+                "loginDate": "Sep 18, 2024 10:40 AM IST",
+                "ipAddress": "192.0.2.33"
+            },
+            {
+                "employeeName": "James Taylor",
+                "usernameTried": "jtaylor",
+                "loginDate": "Sep 17, 2024 06:05 PM IST",
+                "ipAddress": "203.0.113.50"
+            },
+            {
+                "employeeName": "Olivia Anderson",
+                "usernameTried": "oanderson",
+                "loginDate": "Sep 16, 2024 01:15 PM IST",
+                "ipAddress": "198.51.100.78"
+            },
+            {
+                "employeeName": "William Thomas",
+                "usernameTried": "wthomas",
+                "loginDate": "Sep 15, 2024 09:50 AM IST",
+                "ipAddress": "172.16.0.5"
+            },
+            {
+                "employeeName": "Sophia Jackson",
+                "usernameTried": "sjackson",
+                "loginDate": "Sep 14, 2024 05:30 PM IST",
+                "ipAddress": "10.0.1.3"
+            },
+            {
+                "employeeName": "Benjamin White",
+                "usernameTried": "bwhite",
+                "loginDate": "Sep 13, 2024 12:20 PM IST",
+                "ipAddress": "203.0.113.75"
+            },
+            {
+                "employeeName": "Mia Harris",
+                "usernameTried": "mharris",
+                "loginDate": "Sep 12, 2024 04:55 PM IST",
+                "ipAddress": "198.51.100.89"
+            },
+            {
+                "employeeName": "Daniel Martin",
+                "usernameTried": "dmartin",
+                "loginDate": "Sep 11, 2024 07:40 AM IST",
+                "ipAddress": "192.0.2.44"
+            },
+            {
+                "employeeName": "Isabella Thompson",
+                "usernameTried": "ithompson",
+                "loginDate": "Sep 10, 2024 03:10 PM IST",
+                "ipAddress": "203.0.113.120"
+            },
+            {
+                "employeeName": "Matthew Garcia",
+                "usernameTried": "mgarcia",
+                "loginDate": "Sep 09, 2024 11:25 AM IST",
+                "ipAddress": "198.51.100.34"
+            },
+            {
+                "employeeName": "Ava Martinez",
+                "usernameTried": "amartinez",
+                "loginDate": "Sep 08, 2024 06:15 PM IST",
+                "ipAddress": "172.16.1.8"
+            },
+            {
+                "employeeName": "Alexander Robinson",
+                "usernameTried": "arobinson",
+                "loginDate": "Sep 07, 2024 02:50 PM IST",
+                "ipAddress": "10.0.2.6"
+            },
+            {
+                "employeeName": "Charlotte Clark",
+                "usernameTried": "cclark",
+                "loginDate": "Sep 06, 2024 08:35 AM IST",
+                "ipAddress": "203.0.113.200"
+            },
+            {
+                "employeeName": "Ethan Rodriguez",
+                "usernameTried": "erodriguez",
+                "loginDate": "Sep 05, 2024 01:45 PM IST",
+                "ipAddress": "198.51.100.56"
+            },
+            {
+                "employeeName": "Amelia Lewis",
+                "usernameTried": "alewis",
+                "loginDate": "Sep 04, 2024 05:20 PM IST",
+                "ipAddress": "192.0.2.78"
+            },
+            {
+                "employeeName": "Logan Walker",
+                "usernameTried": "lwalker",
+                "loginDate": "Sep 03, 2024 09:05 AM IST",
+                "ipAddress": "203.0.113.220"
+            },
+            {
+                "employeeName": "Harper Hall",
+                "usernameTried": "hhall",
+                "loginDate": "Sep 02, 2024 04:30 PM IST",
+                "ipAddress": "198.51.100.99"
+            },
+            {
+                "employeeName": "Lucas Allen",
+                "usernameTried": "lallen",
+                "loginDate": "Sep 01, 2024 07:10 AM IST",
+                "ipAddress": "172.16.2.14"
+            },
+            {
+                "employeeName": "Evelyn Young",
+                "usernameTried": "eyoung",
+                "loginDate": "Aug 31, 2024 03:55 PM IST",
+                "ipAddress": "10.0.3.12"
+            },
+            {
+                "employeeName": "Mason Hernandez",
+                "usernameTried": "mhernandez",
+                "loginDate": "Aug 30, 2024 11:40 AM IST",
+                "ipAddress": "203.0.113.145"
+            },
+            {
+                "employeeName": "Abigail King",
+                "usernameTried": "aking",
+                "loginDate": "Aug 29, 2024 06:25 PM IST",
+                "ipAddress": "198.51.100.67"
+            },
+            {
+                "employeeName": "Jacob Wright",
+                "usernameTried": "jwright",
+                "loginDate": "Aug 28, 2024 02:00 PM IST",
+                "ipAddress": "192.0.2.101"
+            },
+            {
+                "employeeName": "Ella Lopez",
+                "usernameTried": "elopez",
+                "loginDate": "Aug 27, 2024 08:15 AM IST",
+                "ipAddress": "203.0.113.180"
+            },
+            {
+                "employeeName": "William Hill",
+                "usernameTried": "whill",
+                "loginDate": "Aug 26, 2024 01:30 PM IST",
+                "ipAddress": "198.51.100.88"
+            },
+            {
+                "employeeName": "Grace Scott",
+                "usernameTried": "gscott",
+                "loginDate": "Aug 25, 2024 05:45 PM IST",
+                "ipAddress": "172.16.3.20"
+            },
+            {
+                "employeeName": "Henry Green",
+                "usernameTried": "hgreen",
+                "loginDate": "Aug 24, 2024 09:55 AM IST",
+                "ipAddress": "10.0.4.18"
+            },
+            {
+                "employeeName": "Victoria Adams",
+                "usernameTried": "vadams",
+                "loginDate": "Aug 23, 2024 04:10 PM IST",
+                "ipAddress": "203.0.113.210"
+            },
+            {
+                "employeeName": "Sebastian Baker",
+                "usernameTried": "sbaker",
+                "loginDate": "Aug 22, 2024 12:25 PM IST",
+                "ipAddress": "198.51.100.102"
+            },
+            {
+                "employeeName": "Chloe Nelson",
+                "usernameTried": "cnelson",
+                "loginDate": "Aug 21, 2024 07:40 AM IST",
+                "ipAddress": "192.0.2.150"
+            },
+            {
+                "employeeName": "Jackson Carter",
+                "usernameTried": "jcarter",
+                "loginDate": "Aug 20, 2024 03:15 PM IST",
+                "ipAddress": "203.0.113.175"
+            },
+            {
+                "employeeName": "Lily Mitchell",
+                "usernameTried": "lmitchell",
+                "loginDate": "Aug 19, 2024 10:30 AM IST",
+                "ipAddress": "198.51.100.120"
+            },
+            {
+                "employeeName": "Aiden Perez",
+                "usernameTried": "aperez",
+                "loginDate": "Aug 18, 2024 06:50 PM IST",
+                "ipAddress": "172.16.4.25"
+            },
+            {
+                "employeeName": "Sofia Roberts",
+                "usernameTried": "sroberts",
+                "loginDate": "Aug 17, 2024 02:20 PM IST",
+                "ipAddress": "10.0.5.22"
+            },
+            {
+                "employeeName": "Daniel Turner",
+                "usernameTried": "dturner",
+                "loginDate": "Aug 16, 2024 08:05 AM IST",
+                "ipAddress": "203.0.113.190"
+            },
+            {
+                "employeeName": "Zoey Phillips",
+                "usernameTried": "zphillips",
+                "loginDate": "Aug 15, 2024 01:35 PM IST",
+                "ipAddress": "198.51.100.130"
+            },
+            {
+                "employeeName": "Samuel Campbell",
+                "usernameTried": "scampbell",
+                "loginDate": "Aug 14, 2024 05:50 PM IST",
+                "ipAddress": "192.0.2.180"
+            },
+            {
+                "employeeName": "Layla Parker",
+                "usernameTried": "lparker",
+                "loginDate": "Aug 13, 2024 09:25 AM IST",
+                "ipAddress": "203.0.113.160"
+            },
+            {
+                "employeeName": "Matthew Evans",
+                "usernameTried": "mevans",
+                "loginDate": "Aug 12, 2024 04:40 PM IST",
+                "ipAddress": "198.51.100.145"
+            },
+            {
+                "employeeName": "Avery Edwards",
+                "usernameTried": "aedwards",
+                "loginDate": "Aug 11, 2024 12:15 PM IST",
+                "ipAddress": "172.16.5.30"
+            },
+            {
+                "employeeName": "Lucas Collins",
+                "usernameTried": "lcollins",
+                "loginDate": "Aug 10, 2024 07:30 AM IST",
+                "ipAddress": "10.0.6.28"
+            },
+            {
+                "employeeName": "Scarlett Stewart",
+                "usernameTried": "sstewart",
+                "loginDate": "Aug 09, 2024 03:05 PM IST",
+                "ipAddress": "203.0.113.195"
+            },
+            {
+                "employeeName": "Elijah Sanchez",
+                "usernameTried": "esanchez",
+                "loginDate": "Aug 08, 2024 11:20 AM IST",
+                "ipAddress": "198.51.100.155"
+            },
+            {
+                "employeeName": "Victoria Morris",
+                "usernameTried": "vmorris",
+                "loginDate": "Aug 07, 2024 06:35 PM IST",
+                "ipAddress": "192.0.2.200"
+            },
+            {
+                "employeeName": "Logan Rogers",
+                "usernameTried": "lrogers",
+                "loginDate": "Aug 06, 2024 02:10 PM IST",
+                "ipAddress": "203.0.113.205"
+            },
+            {
+                "employeeName": "Hannah Reed",
+                "usernameTried": "hreed",
+                "loginDate": "Aug 05, 2024 09:45 AM IST",
+                "ipAddress": "198.51.100.160"
+            },
+            {
+                "employeeName": "Alexander Cook",
+                "usernameTried": "acook",
+                "loginDate": "Aug 04, 2024 04:00 PM IST",
+                "ipAddress": "172.16.6.35"
+            },
+            {
+                "employeeName": "Amelia Morgan",
+                "usernameTried": "amorgan",
+                "loginDate": "Aug 03, 2024 10:20 AM IST",
+                "ipAddress": "10.0.7.34"
+            },
+            {
+                "employeeName": "James Bell",
+                "usernameTried": "jbell",
+                "loginDate": "Aug 02, 2024 05:15 PM IST",
+                "ipAddress": "203.0.113.220"
+            },
+            {
+                "employeeName": "Avery Murphy",
+                "usernameTried": "amurphy",
+                "loginDate": "Aug 01, 2024 01:30 PM IST",
+                "ipAddress": "198.51.100.170"
+            },
+            {
+                "employeeName": "Benjamin Bailey",
+                "usernameTried": "bbailey",
+                "loginDate": "Jul 31, 2024 07:50 AM IST",
+                "ipAddress": "192.0.2.210"
+            },
+            {
+                "employeeName": "Ella Rivera",
+                "usernameTried": "erivera",
+                "loginDate": "Jul 30, 2024 03:25 PM IST",
+                "ipAddress": "203.0.113.235"
+            },
+            {
+                "employeeName": "Henry Cooper",
+                "usernameTried": "hcooper",
+                "loginDate": "Jul 29, 2024 11:40 AM IST",
+                "ipAddress": "198.51.100.185"
+            },
+            {
+                "employeeName": "Lily Richardson",
+                "usernameTried": "lrichardson",
+                "loginDate": "Jul 28, 2024 06:55 PM IST",
+                "ipAddress": "172.16.7.40"
+            },
+            {
+                "employeeName": "Sebastian Cox",
+                "usernameTried": "scox",
+                "loginDate": "Jul 27, 2024 02:20 PM IST",
+                "ipAddress": "10.0.8.38"
+            },
+            {
+                "employeeName": "Chloe Howard",
+                "usernameTried": "choward",
+                "loginDate": "Jul 26, 2024 08:05 AM IST",
+                "ipAddress": "203.0.113.250"
+            },
+            {
+                "employeeName": "Daniel Ward",
+                "usernameTried": "dward",
+                "loginDate": "Jul 25, 2024 01:35 PM IST",
+                "ipAddress": "198.51.100.195"
+            },
+            {
+                "employeeName": "Grace Torres",
+                "usernameTried": "gtorres",
+                "loginDate": "Jul 24, 2024 05:50 PM IST",
+                "ipAddress": "192.0.2.220"
+            },
+            {
+                "employeeName": "Lucas Peterson",
+                "usernameTried": "lpeterson",
+                "loginDate": "Jul 23, 2024 09:25 AM IST",
+                "ipAddress": "203.0.113.260"
+            },
+            {
+                "employeeName": "Ava Gray",
+                "usernameTried": "agray",
+                "loginDate": "Jul 22, 2024 04:40 PM IST",
+                "ipAddress": "198.51.100.205"
+            },
+            {
+                "employeeName": "Ethan Ramirez",
+                "usernameTried": "eramirez",
+                "loginDate": "Jul 21, 2024 12:15 PM IST",
+                "ipAddress": "172.16.8.45"
+            },
+            {
+                "employeeName": "Mia James",
+                "usernameTried": "mjames",
+                "loginDate": "Jul 20, 2024 07:30 AM IST",
+                "ipAddress": "10.0.9.42"
+            },
+            {
+                "employeeName": "Logan Watson",
+                "usernameTried": "lwatson",
+                "loginDate": "Jul 19, 2024 03:05 PM IST",
+                "ipAddress": "203.0.113.270"
+            },
+            {
+                "employeeName": "Scarlett Brooks",
+                "usernameTried": "sbrooks",
+                "loginDate": "Jul 18, 2024 11:20 AM IST",
+                "ipAddress": "198.51.100.215"
+            },
+            {
+                "employeeName": "Oliver Kelly",
+                "usernameTried": "okelly",
+                "loginDate": "Jul 17, 2024 06:35 PM IST",
+                "ipAddress": "192.0.2.230"
+            },
+            {
+                "employeeName": "Ella Sanders",
+                "usernameTried": "esanders",
+                "loginDate": "Jul 16, 2024 02:10 PM IST",
+                "ipAddress": "203.0.113.280"
+            },
+            {
+                "employeeName": "James Price",
+                "usernameTried": "jprice",
+                "loginDate": "Jul 15, 2024 09:45 AM IST",
+                "ipAddress": "198.51.100.225"
+            }
+        ],
+        "ConnectionList": [
+            {
+                "sourceSystem": "Resume Parser - Admin",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-1",
+                "quota": 100,
+                "viewsRemaining": 80,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "sdfY23iA",
+                "password": "bC1KxA93oU",
+                "authorizationCode": "AXp6MN9Lwo9FgHk",
+                "accessToken": "OzF9mAaPqkCE2LHo",
+                "clientID": "k1yKqFx3LZ",
+                "secretKey": "oYkFHQ21LopT"
+            },
+            {
+                "sourceSystem": "Candidate Management",
+                "sourceType": "Dice",
+                "parserAPI": "API-2",
+                "quota": 200,
+                "viewsRemaining": 150,
+                "active": true,
+                "connectionMethod": "Job Posting",
+                "userName": "Tech Fetch",
+                "password": "A89nmzT13Y",
+                "authorizationCode": "lX9PAHmKqwCFJLz",
+                "accessToken": "uLpo3mTAJxFWkzQY",
+                "clientID": "QZAyF2LTzK",
+                "secretKey": "TXwLK92FmQop"
+            },
+            {
+                "sourceSystem": "Job Portal Integration",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-3",
+                "quota": 300,
+                "viewsRemaining": 270,
+                "active": false,
+                "connectionMethod": "Resume Parser",
+                "userName": "nXmWAopT",
+                "password": "JL9F29QKmZ",
+                "authorizationCode": "FQA2mYpo9WKT",
+                "accessToken": "T92JYLZopF3KmWX",
+                "clientID": "2KJL9TFXmW",
+                "secretKey": "A3XmTKWFopQ9"
+            },
+            {
+                "sourceSystem": "Analytics Tool",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-4",
+                "quota": 50,
+                "viewsRemaining": 20,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "HR Onboarding",
+                "sourceType": "Dice",
+                "parserAPI": "API-5",
+                "quota": 500,
+                "viewsRemaining": 450,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Resume Parser - Premium",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-6",
+                "quota": 1000,
+                "viewsRemaining": 999,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Talent Acquisition",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-7",
+                "quota": 250,
+                "viewsRemaining": 200,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "CRM System",
+                "sourceType": "Dice",
+                "parserAPI": "API-8",
+                "quota": 300,
+                "viewsRemaining": 280,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Employee Tracker",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-9",
+                "quota": 600,
+                "viewsRemaining": 500,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Admin Tools",
+                "sourceType": "Dice",
+                "parserAPI": "API-10",
+                "quota": 50,
+                "viewsRemaining": 40,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Job Tracker",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-11",
+                "quota": 400,
+                "viewsRemaining": 390,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Resume Manager",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-12",
+                "quota": 150,
+                "viewsRemaining": 100,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Client Manager",
+                "sourceType": "Dice",
+                "parserAPI": "API-13",
+                "quota": 500,
+                "viewsRemaining": 480,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Feedback System",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-14",
+                "quota": 100,
+                "viewsRemaining": 50,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Interview Scheduler",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-15",
+                "quota": 120,
+                "viewsRemaining": 90,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "HR Portal",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-16",
+                "quota": 300,
+                "viewsRemaining": 290,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Admin Dashboard",
+                "sourceType": "Dice",
+                "parserAPI": "API-17",
+                "quota": 350,
+                "viewsRemaining": 320,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Talent Manager",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-18",
+                "quota": 400,
+                "viewsRemaining": 350,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Project Tracker",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-19",
+                "quota": 600,
+                "viewsRemaining": 550,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Recruitment Portal",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-20",
+                "quota": 200,
+                "viewsRemaining": 180,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Resume Parsing Service",
+                "sourceType": "Dice",
+                "parserAPI": "API-21",
+                "quota": 700,
+                "viewsRemaining": 650,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Skill Assessment",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-22",
+                "quota": 500,
+                "viewsRemaining": 450,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Training Module",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-23",
+                "quota": 300,
+                "viewsRemaining": 250,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Job Board",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-24",
+                "quota": 400,
+                "viewsRemaining": 350,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Employee Review",
+                "sourceType": "Dice",
+                "parserAPI": "API-25",
+                "quota": 100,
+                "viewsRemaining": 60,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Performance Tracker",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-26",
+                "quota": 800,
+                "viewsRemaining": 750,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Client Portal",
+                "sourceType": "Resume Parser",
+                "parserAPI": "API-27",
+                "quota": 600,
+                "viewsRemaining": 580,
+                "active": false,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Applicant Tracker",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-28",
+                "quota": 900,
+                "viewsRemaining": 850,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Resource Planner",
+                "sourceType": "Whatsapp",
+                "parserAPI": "API-29",
+                "quota": 1000,
+                "viewsRemaining": 950,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            },
+            {
+                "sourceSystem": "Job Matching Engine",
+                "sourceType": "Tech Fetch",
+                "parserAPI": "API-30",
+                "quota": 1100,
+                "viewsRemaining": 1000,
+                "active": true,
+                "connectionMethod": "Parser API",
+                "userName": "ZoT9pAWLmX",
+                "password": "JL23FWXmoTQ",
+                "authorizationCode": "QX29WLKm9YTA",
+                "accessToken": "FTWLQKpoXm93YA",
+                "clientID": "XmQT29FJLK",
+                "secretKey": "WFpL9QTAX3Y"
+            }
+        ],
+        "IP_Address": [
+            {
+                "ipAddress": "192.168.1.1",
+                "description": "Main Router"
+            },
+            {
+                "ipAddress": "192.168.1.2",
+                "description": "Office Printer"
+            },
+            {
+                "ipAddress": "192.168.1.3",
+                "description": "Developer Machine"
+            },
+            {
+                "ipAddress": "192.168.1.4",
+                "description": "QA Server"
+            },
+            {
+                "ipAddress": "192.168.1.5",
+                "description": "Database Server"
+            },
+            {
+                "ipAddress": "192.168.1.6",
+                "description": "Backup Server"
+            },
+            {
+                "ipAddress": "192.168.1.7",
+                "description": "Web Server"
+            },
+            {
+                "ipAddress": "192.168.1.8",
+                "description": "Security Camera 1"
+            },
+            {
+                "ipAddress": "192.168.1.9",
+                "description": "Security Camera 2"
+            },
+            {
+                "ipAddress": "192.168.1.10",
+                "description": "Smart TV"
+            },
+            {
+                "ipAddress": "192.168.1.11",
+                "description": "Conference Room Display"
+            },
+            {
+                "ipAddress": "192.168.1.12",
+                "description": "IoT Device 1"
+            },
+            {
+                "ipAddress": "192.168.1.13",
+                "description": "IoT Device 2"
+            },
+            {
+                "ipAddress": "192.168.1.14",
+                "description": "Guest Laptop"
+            },
+            {
+                "ipAddress": "192.168.1.15",
+                "description": "Developer Laptop"
+            },
+            {
+                "ipAddress": "192.168.1.16",
+                "description": "Network Switch 1"
+            },
+            {
+                "ipAddress": "192.168.1.17",
+                "description": "Network Switch 2"
+            },
+            {
+                "ipAddress": "192.168.1.18",
+                "description": "Firewall"
+            },
+            {
+                "ipAddress": "192.168.1.19",
+                "description": "Mail Server"
+            },
+            {
+                "ipAddress": "192.168.1.20",
+                "description": "DNS Server"
+            },
+            {
+                "ipAddress": "192.168.1.21",
+                "description": "DHCP Server"
+            },
+            {
+                "ipAddress": "192.168.1.22",
+                "description": "Application Server"
+            },
+            {
+                "ipAddress": "192.168.1.23",
+                "description": "Cloud Sync Server"
+            },
+            {
+                "ipAddress": "192.168.1.24",
+                "description": "Test Device A"
+            },
+            {
+                "ipAddress": "192.168.1.25",
+                "description": "Test Device B"
+            },
+            {
+                "ipAddress": "192.168.1.26",
+                "description": "Admin Desktop"
+            },
+            {
+                "ipAddress": "192.168.1.27",
+                "description": "API Gateway"
+            },
+            {
+                "ipAddress": "192.168.1.28",
+                "description": "User Workstation"
+            },
+            {
+                "ipAddress": "192.168.1.29",
+                "description": "Backup NAS"
+            },
+            {
+                "ipAddress": "192.168.1.30",
+                "description": "Old Server"
+            }
+        ],
+        "Email_Templates": [
+            {
+                "title": "Account_Creation",
+                "subject": "{site_name} - Your New Account Details",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px; color: #333;'><h2 style='color: #4CAF50;'>Welcome to {site_name}!</h2><p>Hello <b>{name}</b>,</p><p>Your account is now active! Below are your login details:</p><p><b>Username:</b> {Username}<br/><b>Password:</b> {password}</p><p><a href='{link}' style='background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Login Now</a></p><p>Best Regards,<br/>{site_name} Team</p></div>"
+            },
+            {
+                "title": "Password_Reset",
+                "subject": "Reset Your Password for {site_name}",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px; color: #333;'><h2 style='color: #FF9800;'>Password Reset</h2><p>Hello <b>{name}</b>,</p><p>Click the button below to reset your password:</p><p><a href='{link}' style='background-color: #FF9800; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Reset Password</a></p><p>If you didn't request this, please ignore this message.</p><p>Best Regards,<br/>{site_name} Team</p></div>"
+            },
+            {
+                "title": "Order_Confirmation",
+                "subject": "Order #{order_id} Confirmation from {site_name}",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px; color: #333;'><h2 style='color: #4CAF50;'>Order Confirmation</h2><p>Hello <b>{name}</b>,</p><p>Thank you for your purchase! Here are your order details:</p><ul style='background-color: #f9f9f9; padding: 15px; border-radius: 5px;'><li><b>Order ID:</b> #{order_id}</li><li><b>Product:</b> {product_name}</li><li><b>Total Amount:</b> ${total_amount}</li></ul><p><a href='{link}' style='background-color: #4CAF50; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>Track Order</a></p><p>Thanks for shopping with us!</p></div>"
+            },
+            {
+                "title": "Promotion_Announcement",
+                "subject": "Congrats {name}! You've been promoted!",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px;'><h2 style='color: #3F51B5;'>Congratulations!</h2><p>Hi <b>{name}</b>,</p><p>We are delighted to announce your promotion to <b>{new_position}</b>! 🎉</p><p>Keep up the great work!</p><p>Best Regards,<br/>{site_name} HR Team</p></div>"
+            },
+            {
+                "title": "Event_Invitation",
+                "subject": "{site_name} - You're Invited!",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px;'><h2 style='color: #009688;'>You're Invited!</h2><p>Hello <b>{name}</b>,</p><p>Join us for an exciting event on <b>{event_date}</b>.</p><p><a href='{link}' style='background-color: #009688; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;'>RSVP Now</a></p><p>We hope to see you there!</p><p>Best Regards,<br/>{site_name} Events Team</p></div>"
+            },
+            {
+                "title": "Interview_Invitation",
+                "subject": "Interview Invitation - {position} at {site_name}",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px;'><h2 style='color: #FF5722;'>Interview Invitation</h2><p>Dear <b>{name}</b>,</p><p>We are excited to invite you for an interview for the <b>{position}</b> position.</p><p><b>Date:</b> {interview_date}<br/><b>Location:</b> {location}</p><p>Looking forward to meeting you!</p><p>Best Regards,<br/>{site_name} HR Team</p></div>"
+            },
+            {
+                "title": "Leave_Approval",
+                "subject": "Your Leave Request Approved",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px;'><h2 style='color: #4CAF50;'>Leave Approved</h2><p>Hi <b>{name}</b>,</p><p>Your leave request from <b>{start_date}</b> to <b>{end_date}</b> has been approved. Enjoy your time off!</p><p>Best Regards,<br/>{site_name} HR Team</p></div>"
+            },
+            {
+                "title": "Birthday_Wish",
+                "subject": "Happy Birthday, {name}!",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px;'><h2 style='color: #FFC107;'>Happy Birthday!</h2><p>Hi <b>{name}</b>,</p><p>Wishing you a fantastic birthday filled with joy and happiness! 🎂🎉</p><p>Enjoy your special day!</p></div>"
+            },
+            {
+                "title": "Security_Alert",
+                "subject": "Security Alert - {site_name}",
+                "body": "<div style='font-family: Arial, sans-serif; padding: 20px;'><h2 style='color: #f44336;'>Security Alert</h2><p>Hello <b>{name}</b>,</p><p>We noticed unusual activity on your account. Please <a href='{link}' style='color: #f44336;'>review your recent activities</a> to secure your account.</p><p>Stay safe,<br/>{site_name} Team</p></div>"
+            },
+            {
+                "title": "Account_Creation",
+                "subject": "{site_name} - Your New Account Details",
+                "body": "<p>Hello {name},</p><p>Welcome to {site_name}. Your account is now active.</p><p><b>Username:</b> {Username}<br/><b>Password:</b> {password}</p><p><a href='{link}'>Login Now</a></p><p>Best Regards,<br/>{site_name} Team</p>"
+            },
+            {
+                "title": "Password_Reset",
+                "subject": "Reset Your Password for {site_name}",
+                "body": "<p>Hi {name},</p><p>Click <a href='{link}'>here</a> to reset your password.</p><p>If you didn't request this, please ignore this message.</p><p>Regards,<br/>{site_name} Team</p>"
+            },
+            {
+                "title": "Welcome_Email",
+                "subject": "Welcome to {site_name}, {name}!",
+                "body": "<p>Dear {name},</p><p>We are thrilled to have you onboard. Explore our platform <a href='{link}'>here</a>.</p><p>Looking forward to great achievements together!</p><p>Cheers,<br/>{site_name} Team</p>"
+            },
+            {
+                "title": "Feedback_Request",
+                "subject": "We Value Your Feedback - {site_name}",
+                "body": "<p>Hello {name},</p><p>We'd love to hear your feedback! <a href='{link}'>Click here</a> to share your thoughts.</p><p>Thanks for helping us improve!</p><p>Best Regards,<br/>{site_name} Team</p>"
+            },
+            {
+                "title": "Promotion_Announcement",
+                "subject": "Congrats {name}! You've been promoted!",
+                "body": "<p>Hi {name},</p><p>We are excited to announce your promotion to {new_position}. Congratulations!</p><p>Keep up the fantastic work!</p><p>Regards,<br/>{site_name} HR Team</p>"
+            },
+            {
+                "title": "Event_Invitation",
+                "subject": "{site_name} - You're Invited!",
+                "body": "<p>Hi {name},</p><p>Join us for an exciting event on {event_date}. <a href='{link}'>RSVP here</a>.</p><p>Hope to see you there!</p><p>Regards,<br/>{site_name} Events Team</p>"
+            },
+            {
+                "title": "Order_Confirmation",
+                "subject": "Order #{order_id} Confirmation from {site_name}",
+                "body": "<p>Hello {name},</p><p>Your order #{order_id} has been confirmed.</p><p><b>Order Summary:</b><br/>Product: {product_name}<br/>Total: ${total_amount}</p><p>Track your order <a href='{link}'>here</a>.</p><p>Thanks for shopping with us!</p>"
+            },
+            {
+                "title": "Shipment_Notification",
+                "subject": "Your Order #{order_id} has Shipped!",
+                "body": "<p>Hello {name},</p><p>Your order #{order_id} is on its way! Track your shipment <a href='{link}'>here</a>.</p><p>Estimated Delivery: {delivery_date}</p><p>Thanks for choosing {site_name}!</p>"
+            },
+            {
+                "title": "Interview_Invitation",
+                "subject": "Interview Invitation - {position} at {site_name}",
+                "body": "<p>Hello {name},</p><p>We are pleased to invite you for an interview for the {position} position.</p><p><b>Date:</b> {interview_date}<br/><b>Location:</b> {location}</p><p>Looking forward to meeting you!</p><p>Regards,<br/>{site_name} HR Team</p>"
+            },
+            {
+                "title": "Job_Offer",
+                "subject": "Job Offer - {position} at {site_name}",
+                "body": "<p>Hello {name},</p><p>We are delighted to offer you the {position} role at {site_name}.</p><p>Please review the offer letter attached.</p><p>We look forward to having you onboard!</p>"
+            },
+            {
+                "title": "Leave_Approval",
+                "subject": "Your Leave Request Approved",
+                "body": "<p>Hi {name},</p><p>Your leave request from {start_date} to {end_date} has been approved.</p><p>Enjoy your time off!</p><p>Best Regards,<br/>{site_name} HR Team</p>"
+            },
+            {
+                "title": "Payment_Receipt",
+                "subject": "Payment Receipt - Invoice #{invoice_id}",
+                "body": "<p>Hello {name},</p><p>We received your payment of ${amount} for Invoice #{invoice_id}.</p><p>Thank you!</p>"
+            },
+            {
+                "title": "Subscription_Expiry",
+                "subject": "Your {site_name} Subscription is About to Expire",
+                "body": "<p>Hi {name},</p><p>Your subscription will expire on {expiry_date}. Renew <a href='{link}'>here</a> to avoid interruption.</p>"
+            },
+            {
+                "title": "Password_Change_Notification",
+                "subject": "Password Change Confirmation",
+                "body": "<p>Hi {name},</p><p>Your password was successfully changed.</p><p>If this wasn't you, please contact us immediately.</p>"
+            },
+            {
+                "title": "Verification_Email",
+                "subject": "Verify Your Email Address",
+                "body": "<p>Hello {name},</p><p>Please <a href='{link}'>verify your email</a> to activate your account.</p>"
+            },
+            {
+                "title": "Account_Locked",
+                "subject": "Account Locked - {site_name}",
+                "body": "<p>Hi {name},</p><p>We detected multiple failed login attempts. Your account has been locked temporarily. Reset your password <a href='{link}'>here</a>.</p>"
+            },
+            {
+                "title": "Referral_Bonus",
+                "subject": "You've Earned a Referral Bonus!",
+                "body": "<p>Hello {name},</p><p>You earned a bonus of ${bonus_amount} for referring {referred_name}. Thanks!</p>"
+            },
+            {
+                "title": "Anniversary_Celebration",
+                "subject": "Happy Work Anniversary, {name}!",
+                "body": "<p>Hi {name},</p><p>Congratulations on your {years} year(s) with {site_name}. Thank you for your dedication!</p>"
+            },
+            {
+                "title": "Downtime_Notification",
+                "subject": "Scheduled Downtime Notification",
+                "body": "<p>Hello {name},</p><p>{site_name} will undergo maintenance on {maintenance_date}. Expect downtime from {start_time} to {end_time}.</p>"
+            },
+            {
+                "title": "Newsletter",
+                "subject": "{site_name} Monthly Newsletter",
+                "body": "<p>Hello {name},</p><p>Check out our latest updates <a href='{link}'>here</a>.</p>"
+            },
+            {
+                "title": "Birthday_Wish",
+                "subject": "Happy Birthday, {name}!",
+                "body": "<p>Hi {name},</p><p>Wishing you a wonderful birthday! Enjoy your day!</p>"
+            },
+            {
+                "title": "Survey_Request",
+                "subject": "We Value Your Opinion!",
+                "body": "<p>Hello {name},</p><p>Help us improve by taking a quick survey <a href='{link}'>here</a>.</p>"
+            },
+            {
+                "title": "Performance_Review",
+                "subject": "Performance Review - {site_name}",
+                "body": "<p>Hi {name},</p><p>Your performance review is scheduled for {review_date}.</p><p>Please be prepared to discuss your achievements.</p>"
+            },
+            {
+                "title": "Payment_Failed",
+                "subject": "Payment Failed Notification",
+                "body": "<p>Hello {name},</p><p>Your payment for Invoice #{invoice_id} was unsuccessful. <a href='{link}'>Retry payment</a>.</p>"
+            },
+            {
+                "title": "Account_Deactivation",
+                "subject": "Account Deactivation Notice",
+                "body": "<p>Hello {name},</p><p>Your account will be deactivated on {deactivation_date}. Please contact support if this is a mistake.</p>"
+            },
+            {
+                "title": "Security_Alert",
+                "subject": "Security Alert - {site_name}",
+                "body": "<p>Hello {name},</p><p>We noticed unusual activity on your account. Please review your recent activities <a href='{link}'>here</a>.</p>"
+            },
+            {
+                "title": "Order_Cancellation",
+                "subject": "Order #{order_id} Cancelled",
+                "body": "<p>Hello {name},</p><p>Your order #{order_id} has been cancelled. If this is incorrect, please contact support.</p>"
+            },
+            {
+                "title": "Appointment_Reminder",
+                "subject": "Appointment Reminder - {site_name}",
+                "body": "<p>Hello {name},</p><p>This is a reminder for your appointment on {appointment_date} at {appointment_time}.</p>"
+            }
+        ]
+    }
+}

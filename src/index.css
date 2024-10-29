@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: monospace;
+}
+
+::placeholder {
+  font-size: 13px !important;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+}
+
+textarea,
+input,
+select {
+  font-size: 13px !important;
+  font-weight: 400;
+  font-family: "Inter", sans-serif;
+  color: #000;
+}

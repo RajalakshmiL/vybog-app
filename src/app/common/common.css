@@ -1,0 +1,438 @@
+/* Global styles for the table wrapper */
+.global-table-wrapper {
+  width: 100%;
+  margin-bottom: 5px;
+  position: relative;
+  z-index: 9;
+}
+
+/* for grouping column in table */
+.erkbiK div:first-child {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  width: 100%;
+}
+
+/* Styles for the data table */
+.global-data-table,
+.candidate-table,
+.jobs-table,
+.clients-table {
+  position: relative !important;
+  width: 96% !important;
+  border-radius: inherit !important;
+  overflow-x: auto !important;
+  overflow-y: auto !important;
+  min-height: 0 !important;
+  max-height: 500px !important;
+  margin: auto !important;
+  border-bottom: 1px solid #d3dae0;
+}
+
+/* Scrollbar Style common for all */
+.global-data-table::-webkit-scrollbar,
+.candidate-table::-webkit-scrollbar,
+.jobs-table::-webkit-scrollbar,
+.clients-table::-webkit-scrollbar,
+.styled-scrollbar::-webkit-scrollbar,
+.autocomplete-listoption::-webkit-scrollbar,
+.sun-editor-editable::-webkit-scrollbar {
+  height: 10px;
+  width: 10px;
+}
+
+/* Scrollbar Track Style */
+.global-data-table::-webkit-scrollbar-track,
+.candidate-table::-webkit-scrollbar-track,
+.jobs-table::-webkit-scrollbar-track,
+.clients-table::-webkit-scrollbar-track,
+.styled-scrollbar::-webkit-scrollbar-track,
+.autocomplete-listoption::-webkit-scrollbar-track,
+.sun-editor-editable::-webkit-scrollbar-track {
+  border-radius: 5px;
+  background-color: #e6f1f5;
+}
+
+.global-data-table::-webkit-scrollbar-track:hover,
+.candidate-table::-webkit-scrollbar-track:hover,
+.jobs-table::-webkit-scrollbar-track:hover,
+.clients-table::-webkit-scrollbar-track:hover,
+.styled-scrollbar::-webkit-scrollbar-track:hover,
+.autocomplete-listoption::-webkit-scrollbar-track:hover,
+.sun-editor-editable::-webkit-scrollbar-track:hover {
+  background-color: #d0e3ea;
+}
+
+.global-data-table::-webkit-scrollbar-track:active,
+.candidate-table::-webkit-scrollbar-track:active,
+.jobs-table::-webkit-scrollbar-track:active,
+.clients-table::-webkit-scrollbar-track:active,
+.styled-scrollbar::-webkit-scrollbar-track:active,
+.autocomplete-listoption::-webkit-scrollbar-track:active,
+.sun-editor-editable::-webkit-scrollbar-track:active {
+  background-color: #bfd8e0;
+}
+
+/* Scrollbar Thumb Style */
+.global-data-table::-webkit-scrollbar-thumb,
+.candidate-table::-webkit-scrollbar-thumb,
+.jobs-table::-webkit-scrollbar-thumb,
+.clients-table::-webkit-scrollbar-thumb,
+.styled-scrollbar::-webkit-scrollbar-thumb,
+.autocomplete-listoption::-webkit-scrollbar-thumb,
+.sun-editor-editable::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: #1b52a729;
+}
+
+.global-data-table::-webkit-scrollbar-thumb:hover,
+.candidate-table::-webkit-scrollbar-thumb:hover,
+.jobs-table::-webkit-scrollbar-thumb:hover,
+.clients-table::-webkit-scrollbar-thumb:hover,
+.styled-scrollbar::-webkit-scrollbar-thumb:hover,
+.autocomplete-listoption::-webkit-scrollbar-thumb:hover,
+.sun-editor-editable::-webkit-scrollbar-thumb:hover {
+  background-color: #1b52a742;
+}
+
+.global-data-table::-webkit-scrollbar-thumb:active,
+.candidate-table::-webkit-scrollbar-thumb:active,
+.jobs-table::-webkit-scrollbar-thumb:active,
+.clients-table::-webkit-scrollbar-thumb:active,
+.styled-scrollbar::-webkit-scrollbar-thumb:active,
+.autocomplete-listoption::-webkit-scrollbar-thumb:active,
+.sun-editor-editable::-webkit-scrollbar-thumb:active {
+  background-color: #1b52a740;
+}
+
+/* Styles for table header */
+.global-data-table .rdt_TableHeadRow,
+.candidate-table .rdt_TableHeadRow,
+.jobs-table .rdt_TableHeadRow,
+.clients-table .rdt_TableHeadRow {
+  background-color: #f0f8ff;
+  color: #1b52a7;
+  font-size: 15px;
+}
+
+.candidate-table .rdt_TableCol:last-child,
+.candidate-table .rdt_TableCell:last-child,
+.jobs-table .rdt_TableCol:last-child,
+.jobs-table .rdt_TableCell:last-child,
+.clients-table .rdt_TableCol:last-child,
+.clients-table .rdt_TableCell:last-child {
+  min-width: 70px !important;
+  max-width: 70px !important;
+}
+
+.candidatefieldMapping-container .rdt_TableCol .rdt_TableCell {
+  min-width: auto !important;
+  max-width: initial !important;
+}
+
+.candidatefieldMapping-container
+  .sc-hLQSwg.sc-eDLKkx.sc-irLvIq.cYgWVI.faZveH.edxNQE.rdt_TableCol {
+  min-width: 50%;
+}
+
+/* job and client innerpage table */
+.proposalTableOuterDiv .global-data-table .rdt_TableCol:last-child,
+.proposalTableOuterDiv .global-data-table .rdt_TableCell:last-child {
+  max-width: unset !important;
+}
+
+.proposalTableOuterDiv .global-data-table {
+  width: 100% !important;
+}
+
+.css-1tdraq5 {
+  white-space: nowrap !important;
+}
+
+.css-1eouwok {
+  white-space: nowrap !important;
+}
+
+/* Ensure checkboxes don't have padding */
+.global-data-table .rdt_TableCell .MuiCheckbox-root,
+.jobs-table .rdt_TableCell .MuiCheckbox-root,
+.candidate-table .rdt_TableCell .MuiCheckbox-root,
+.clients-table .rdt_TableCell .MuiCheckbox-root {
+  padding: 0 !important;
+}
+
+/*table delete*/
+.global-data-table .rdt_TableRow,
+.jobs-table .rdt_TableRow,
+.candidate-table .rdt_TableRow,
+.clients-table .rdt_TableRow {
+  position: relative !important;
+}
+
+.global-data-table .rdt_TableCell,
+.jobs-table .rdt_TableCell,
+.candidate-table .rdt_TableCell,
+.clients-table .rdt_TableCell {
+  position: unset !important;
+}
+
+/* Pagination styles */
+.global-table-wrapper .MuiPagination-ul {
+  position: relative;
+  bottom: auto;
+  justify-content: center;
+  width: 100%;
+}
+
+.react-datepicker-wrapper {
+  width: 100%;
+  /* margin-bottom: 5px; */
+}
+
+/* suneditor style */
+.sun-editor .se-resizing-bar .se-navigation {
+  display: none;
+}
+
+.sun-editor {
+  width: 100% !important;
+}
+
+.react-datepicker-wrapper :focus-visible,
+input:focus-visible {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+input {
+  transition: background-color 10000s ease-in-out 0s;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:hover {
+  justify-content: space-between !important;
+}
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root:hover {
+  display: flex;
+  align-items: center;
+}
+
+/* .css-3dzjca-MuiPaper-root-MuiPopover-paper-MuiMenu-paper {
+  width: 200px !important;
+} */
+
+.css-wjh20t-MuiPagination-ul {
+  position: relative;
+  bottom: auto;
+  justify-content: center;
+  width: 100%;
+}
+
+.sc-csKJxZ.iteyOh.rdt_TableCol_Sortable {
+  font-size: 15px;
+  color: #1b52a7;
+}
+
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.bSMiXb {
+  flex-grow: 0 !important;
+  flex-shrink: 0;
+  flex-basis: 0;
+  max-width: 100%;
+  min-width: 100px;
+  min-width: 100px !important;
+  max-width: 200px;
+}
+
+.fxvrKk {
+  z-index: 999 !important;
+}
+
+.css-yycopj-MuiButtonBase-root-MuiCheckbox-root {
+  padding: 0 !important;
+}
+
+/* Menubar_Designs */
+
+.css-kk1bwy-MuiButtonBase-root-MuiMenuItem-root {
+  padding: 0px;
+}
+
+.css-ndwb2d-MuiAvatar-root {
+  cursor: pointer;
+}
+
+/* linearGradient designs */
+.progress-outer .MuiLinearProgress-colorPrimary {
+  background-color: #ddf1ff !important;
+}
+
+/* fullscreenDialog */
+.appbarstyle {
+  color: black !important;
+  box-shadow: none !important;
+  background-color: white !important;
+}
+
+.toolbar-container {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 30px;
+  box-shadow: 0px 4px 10px 0px #0000000d;
+  border-radius: 10px;
+  position: relative;
+}
+
+.dialogmain-div {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+}
+
+.dialog-div {
+  border-bottom: 1px solid #dddddd;
+  width: 95%;
+}
+
+.dialogcontainer-div {
+  display: flex;
+  flex-direction: column;
+}
+
+.dialogchild-div {
+  margin-top: 20px;
+}
+
+.MuiTypography-root.MuiTypography-h6.css-alqvit-MuiTypography-root {
+  width: 100%;
+  margin-bottom: 30px;
+  border-bottom: 1px solid #ccc;
+}
+
+.side-content {
+  display: flex;
+  column-gap: 10vw;
+}
+
+@media screen and (max-width: 768px) {
+  .side-content {
+    column-gap: 3vw;
+  }
+}
+
+.side-content p {
+  column-gap: 20px;
+  display: flex;
+  position: relative;
+  font-size: 16px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+.sideinner-content {
+  display: flex;
+  flex-direction: row;
+  gap: 40px;
+  align-items: center;
+  padding-right: 4%;
+}
+
+.sideinner-content p::before {
+  position: absolute;
+  content: "";
+  width: 1px;
+  height: 100%;
+  background: #acacac;
+  right: -26px;
+}
+
+.sideinner-content p:last-child::before {
+  display: none;
+}
+
+.content-container h5 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: 600px;
+  color: #000000;
+}
+
+.sideinner-content p {
+  font-weight: 400;
+  font-size: 14px;
+  color: #879cb4;
+}
+
+.sideinner-content span {
+  color: #000000;
+  font-size: 14px;
+  font-weight: 400;
+}
+
+.additionaltext-div {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+}
+
+.cancel-iconbutton {
+  position: absolute !important;
+  right: 20px;
+  top: 28px;
+  border: 2px solid !important;
+}
+
+/* jobs page checkbox style */
+.social .checkbox-div {
+  padding: 8px 0px;
+}
+/* table data selected highlight */
+.global-data-table .rdt_TableRow[data-highlighted="true"],
+.candidate-table .rdt_TableRow[data-highlighted="true"],
+.jobs-table .rdt_TableRow[data-highlighted="true"],
+.clients-table .rdt_TableRow[data-highlighted="true"] {
+  background-color: #eff8ff !important;
+  color: black !important;
+  font-weight: 500;
+}
+
+/* pagination style */
+
+.rdt_Pagination {
+  border-top-color: white !important;
+}
+
+/* selectinput style */
+
+/* selectinput text */
+span.MuiTypography-root.MuiTypography-body1.MuiListItemText-primary.css-10hburv-MuiTypography-root {
+  font-size: 14px;
+}
+
+/* option */
+.default-option {
+  font-size: 14px !important;
+}
+
+.react-tel-input {
+  margin-bottom: 0px !important;
+}
+
+.labelAsterix {
+  display: flex;
+  flex-direction: row;
+}
+
+input.autocomplete-input {
+  width: 100%;
+  padding: 10px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}

@@ -1,0 +1,6331 @@
+{
+  "staticdata": {
+    "rowdata": [
+      {
+        "name": "Alexander Maximilian Montgomery-Harrison Ragnar lorthbrook III",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js",
+          "JavaScript",
+          "React",
+          "HTML",
+          "CSS",
+          "TypeScript",
+          "C#",
+          "PHP",
+          "Ruby",
+          "Swift",
+          "Kotlin",
+          "Go",
+          "Django",
+          "Spring Boot",
+          "Express.js",
+          "SASS",
+          "LESS",
+          "GraphQL",
+          "SQL Server",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Jenkins",
+          "Git",
+          "SVN",
+          "RESTful APIs",
+          "OAuth",
+          "JWT",
+          "Elasticsearch",
+          "Firebase",
+          "RabbitMQ",
+          "Kafka",
+          "Selenium",
+          "JUnit",
+          "Maven",
+          "Gradle",
+          "Vagrant",
+          "Terraform",
+          "Nginx",
+          "Apache",
+          "JIRA",
+          "Confluence",
+          "Agile"
+        ],
+        "role": "React Developer",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "4/18/2023"
+      },
+      {
+        "name": "Myrtice Greggersen",
+        "email": "mgreggersen1@jiathis.com",
+        "contact": "348-746-5072",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "9/1/2023"
+      },
+      {
+        "name": "Latisha Whitty",
+        "email": "lwhitty2@wix.com",
+        "contact": "479-392-6930",
+        "skill": [
+          "Java",
+          "Angular"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/15/2023"
+      },
+      {
+        "name": "Star Bonavia",
+        "email": "sbonavia3@123-reg.co.uk",
+        "contact": "950-539-4725",
+        "skill": [
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Shortlist",
+        "location": "India",
+        "updated": "2/9/2023"
+      },
+      {
+        "name": "Shayla O'Dreain",
+        "email": "sodreain4@soup.io",
+        "contact": "546-809-6236",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Chennai",
+        "updated": "7/4/2023"
+      },
+      {
+        "name": "Boigie Daffey",
+        "email": "bdaffey5@goodreads.com",
+        "contact": "903-812-7371",
+        "skill": [
+          "Node js",
+          "MySQL"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "1/16/2023"
+      },
+      {
+        "name": "Frazier Hellsdon",
+        "email": "fhellsdon6@state.gov",
+        "contact": "887-959-9107",
+        "skill": [
+          "Angular",
+          "Node js",
+          "MySQL",
+          "Java",
+          "React"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Challenge",
+        "location": "Kerala",
+        "updated": "3/7/2023"
+      },
+      {
+        "name": "Ernesta Inkster",
+        "email": "einkster7@apple.com",
+        "contact": "174-420-3962",
+        "skill": [
+          "Java",
+          "Node js",
+          "Python",
+          "MySQL"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "2/6/2023"
+      },
+      {
+        "name": "Biddie Arkcoll",
+        "email": "barkcoll8@hud.gov",
+        "contact": "569-661-5237",
+        "skill": [
+          "React",
+          "Angular"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "1/29/2023"
+      },
+      {
+        "name": "Ara Tripe",
+        "email": "atripe9@uol.com.br",
+        "contact": "325-102-0265",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "GD/HR",
+        "location": "India",
+        "updated": "1/6/2023"
+      },
+      {
+        "name": "Esther Milsted",
+        "email": "emilsteda@utexas.edu",
+        "contact": "586-884-9057",
+        "skill": [
+          "Java",
+          "Angular"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Kerala",
+        "updated": "7/6/2023"
+      },
+      {
+        "name": "Karyn Huggard",
+        "email": "khuggardb@bluehost.com",
+        "contact": "217-753-5748",
+        "skill": [
+          "Angular",
+          "Python"
+        ],
+        "role": "Front End Devloper",
+        "tag": "New Applied",
+        "location": "India",
+        "updated": "5/19/2023"
+      },
+      {
+        "name": "Jud Elbourne",
+        "email": "jelbournec@de.vu",
+        "contact": "509-697-9936",
+        "skill": [
+          "Python",
+          "Java",
+          "Node js",
+          "Angular"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "9/30/2023"
+      },
+      {
+        "name": "Mikey Davydzenko",
+        "email": "mdavydzenkod@themeforest.net",
+        "contact": "663-542-0966",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "5/12/2023"
+      },
+      {
+        "name": "Caitlin Maymand",
+        "email": "cmaymande@shinystat.com",
+        "contact": "437-747-2996",
+        "skill": [
+          "MySQL",
+          "Python",
+          "Node js",
+          "Java",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "4/12/2023"
+      },
+      {
+        "name": "Auria Chasmor",
+        "email": "achasmorz@163.com",
+        "contact": "467-500-0174",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "9/2/2023"
+      },
+      {
+        "name": "Mallorie Clappson",
+        "email": "mclappsoniw@wisc.edu",
+        "contact": "509-743-4469",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "4/11/2023"
+      },
+      {
+        "name": "Lydia Sybry",
+        "email": "lsybryix@meetup.com",
+        "contact": "459-582-2542",
+        "skill": [
+          "Node js",
+          "Angular",
+          "Java",
+          "MySQL",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Delhi",
+        "updated": "4/6/2023"
+      },
+      {
+        "name": "Giacobo d' Eye",
+        "email": "gdov@biglobe.ne.jp",
+        "contact": "254-765-0248",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "9/17/2023"
+      },
+      {
+        "name": "Katlin Gommes",
+        "email": "kgommesow@is.gd",
+        "contact": "655-689-8460",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Mumbai",
+        "updated": "4/4/2023"
+      },
+      {
+        "name": "Alli Balmforth",
+        "email": "abalmforthox@weather.com",
+        "contact": "804-700-4857",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "3/16/2023"
+      },
+      {
+        "name": "Nathanial Winscom",
+        "email": "nwinscomoy@forbes.com",
+        "contact": "651-888-2582",
+        "skill": [
+          "Node js",
+          "Angular",
+          "MySQL",
+          "Python",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "3/14/2023"
+      },
+      {
+        "name": "Ros Rist",
+        "email": "rristoz@gravatar.com",
+        "contact": "758-521-8854",
+        "skill": [
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/4/2023"
+      },
+      {
+        "name": "Bobbi Ruggs",
+        "email": "bruggsp0@bravesites.com",
+        "contact": "244-377-8007",
+        "skill": [
+          "MySQL",
+          "Node js",
+          "Python",
+          "Java",
+          "Angular"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "7/24/2023"
+      },
+      {
+        "name": "Kirk Lelievre",
+        "email": "klelievrep1@independent.co.uk",
+        "contact": "432-288-9432",
+        "skill": [
+          "Angular"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "1/31/2023"
+      },
+      {
+        "name": "Mercy Veelers",
+        "email": "mveelersp2@senate.gov",
+        "contact": "822-247-5347",
+        "skill": [
+          "Python",
+          "Java",
+          "React",
+          "Node js"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/13/2023"
+      },
+      {
+        "name": "Budd Downes",
+        "email": "bdownesp3@xrea.com",
+        "contact": "480-248-9564",
+        "skill": [
+          "Node js",
+          "MySQL",
+          "Java",
+          "React",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "1/25/2023"
+      },
+      {
+        "name": "Jolee Sommerly",
+        "email": "jsommerlyp4@princeton.edu",
+        "contact": "731-332-1885",
+        "skill": [
+          "Node js",
+          "Angular",
+          "MySQL",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "6/2/2023"
+      },
+      {
+        "name": "Brook Pettet",
+        "email": "bpettetp5@github.com",
+        "contact": "439-408-2201",
+        "skill": [
+          "Java"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "4/10/2023"
+      },
+      {
+        "name": "Beth Perroni",
+        "email": "bperronip6@dailymotion.com",
+        "contact": "176-695-7929",
+        "skill": [
+          "Python",
+          "Java",
+          "Angular",
+          "Node js",
+          "React"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "6/2/2023"
+      },
+      {
+        "name": "Harlan Borchardt",
+        "email": "hborchardtp7@homestead.com",
+        "contact": "753-675-6161",
+        "skill": [
+          "Angular"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Chennai",
+        "updated": "6/25/2023"
+      },
+      {
+        "name": "Jae Raiman",
+        "email": "jraimanp8@smh.com.au",
+        "contact": "476-911-8482",
+        "skill": [
+          "React",
+          "Python",
+          "Angular"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "2/23/2023"
+      },
+      {
+        "name": "Ebenezer Ramos",
+        "email": "eramosp9@vimeo.com",
+        "contact": "942-436-6957",
+        "skill": [
+          "Python",
+          "Node js",
+          "MySQL",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "6/6/2023"
+      },
+      {
+        "name": "Garrard McDonnell",
+        "email": "gmcdonnellpa@house.gov",
+        "contact": "531-124-8968",
+        "skill": [
+          "Java",
+          "Python",
+          "Angular",
+          "React",
+          "Node js"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "Chennai",
+        "updated": "8/1/2023"
+      },
+      {
+        "name": "Paxon Niblo",
+        "email": "pniblopb@time.com",
+        "contact": "150-610-4594",
+        "skill": [
+          "Python",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Kerala",
+        "updated": "2/14/2023"
+      },
+      {
+        "name": "Prisca Marzello",
+        "email": "pmarzellopc@myspace.com",
+        "contact": "990-121-6974",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "2/10/2023"
+      },
+      {
+        "name": "Robina Priestland",
+        "email": "rpriestlandpd@qq.com",
+        "contact": "878-527-4004",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "4/9/2023"
+      },
+      {
+        "name": "Andreas Kurdani",
+        "email": "akurdanipe@phpbb.com",
+        "contact": "583-922-5421",
+        "skill": [
+          "Java",
+          "Angular",
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "3/12/2023"
+      },
+      {
+        "name": "Siffre Shane",
+        "email": "sshanepf@ustream.tv",
+        "contact": "823-762-8280",
+        "skill": [
+          "Java",
+          "Angular",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Delhi",
+        "updated": "4/2/2023"
+      },
+      {
+        "name": "Quillan Sainer",
+        "email": "qsainerpg@gmpg.org",
+        "contact": "996-506-1398",
+        "skill": [
+          "React",
+          "Angular",
+          "Node js"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "1/15/2023"
+      },
+      {
+        "name": "Storm Varne",
+        "email": "svarneph@github.io",
+        "contact": "427-919-3268",
+        "skill": [
+          "Angular",
+          "Java",
+          "React",
+          "Node js",
+          "Python"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "8/4/2023"
+      },
+      {
+        "name": "Koressa Shann",
+        "email": "kshannpi@ftc.gov",
+        "contact": "602-326-2910",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/7/2023"
+      },
+      {
+        "name": "Price Mullin",
+        "email": "pmullinpj@cbc.ca",
+        "contact": "175-244-7072",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "6/8/2023"
+      },
+      {
+        "name": "Tiffany McQuie",
+        "email": "tmcquiepk@xing.com",
+        "contact": "815-810-0324",
+        "skill": [
+          "Java",
+          "Node js",
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Kerala",
+        "updated": "7/4/2023"
+      },
+      {
+        "name": "Elane Cantrell",
+        "email": "ecantrellpl@mozilla.org",
+        "contact": "275-942-5947",
+        "skill": [
+          "React",
+          "Java",
+          "Angular"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "Chennai",
+        "updated": "4/17/2023"
+      },
+      {
+        "name": "Scott Halfacree",
+        "email": "shalfacreepm@globo.com",
+        "contact": "708-536-7554",
+        "skill": [
+          "React",
+          "Node js",
+          "Java"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Kerala",
+        "updated": "2/23/2023"
+      },
+      {
+        "name": "Karalynn Skittrall",
+        "email": "kskittrallpn@mtv.com",
+        "contact": "232-602-0884",
+        "skill": [
+          "Java",
+          "React",
+          "Angular",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "9/6/2023"
+      },
+      {
+        "name": "Lara Node",
+        "email": "lnodepo@gmpg.org",
+        "contact": "485-901-6462",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/4/2023"
+      },
+      {
+        "name": "Bendick Cornill",
+        "email": "bcornillpp@purevolume.com",
+        "contact": "561-278-3186",
+        "skill": [
+          "Java",
+          "MySQL",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "4/17/2023"
+      },
+      {
+        "name": "Shell Fulle",
+        "email": "sfullepq@etsy.com",
+        "contact": "504-165-3570",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/10/2023"
+      },
+      {
+        "name": "Roxy Bettlestone",
+        "email": "rbettlestonepr@biglobe.ne.jp",
+        "contact": "222-515-8407",
+        "skill": [
+          "MySQL"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "2/11/2023"
+      },
+      {
+        "name": "Bertie Jahnke",
+        "email": "bjahnkeps@nps.gov",
+        "contact": "743-406-9415",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "6/3/2023"
+      },
+      {
+        "name": "Lewes Nalder",
+        "email": "lnalderpt@123-reg.co.uk",
+        "contact": "384-585-5470",
+        "skill": [
+          "Java",
+          "MySQL",
+          "Python",
+          "React",
+          "Angular"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "6/11/2023"
+      },
+      {
+        "name": "Lenna Rheubottom",
+        "email": "lrheubottompu@elegantthemes.com",
+        "contact": "171-602-9252",
+        "skill": [
+          "Python",
+          "Node js",
+          "MySQL",
+          "Java"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "1/20/2023"
+      },
+      {
+        "name": "Bernadette Sperling",
+        "email": "bsperlingpv@hhs.gov",
+        "contact": "373-666-4381",
+        "skill": [
+          "MySQL",
+          "Node js"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "4/25/2023"
+      },
+      {
+        "name": "Shandee Kilmurry",
+        "email": "skilmurrypw@google.com.au",
+        "contact": "439-116-8133",
+        "skill": [
+          "React",
+          "Python",
+          "Angular",
+          "Java",
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "2/14/2023"
+      },
+      {
+        "name": "Adiana Coolbear",
+        "email": "acoolbearpx@jugem.jp",
+        "contact": "682-184-2407",
+        "skill": [
+          "Java"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "8/9/2023"
+      },
+      {
+        "name": "Dorolisa Brinkler",
+        "email": "dbrinklerpy@ezinearticles.com",
+        "contact": "280-507-7538",
+        "skill": [
+          "Node js",
+          "Python",
+          "Angular",
+          "MySQL",
+          "Java"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "6/13/2023"
+      },
+      {
+        "name": "Lorri Serrels",
+        "email": "lserrelspz@behance.net",
+        "contact": "200-194-4183",
+        "skill": [
+          "Angular",
+          "Node js",
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "2/26/2023"
+      },
+      {
+        "name": "Jerald Kalisz",
+        "email": "jkaliszq0@gnu.org",
+        "contact": "291-158-5487",
+        "skill": [
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "4/16/2023"
+      },
+      {
+        "name": "Nessi Ivushkin",
+        "email": "nivushkinq1@wikia.com",
+        "contact": "932-953-1329",
+        "skill": [
+          "Angular",
+          "Python",
+          "Node js"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "8/27/2023"
+      },
+      {
+        "name": "Nolly Grollmann",
+        "email": "ngrollmannq2@bing.com",
+        "contact": "602-886-3320",
+        "skill": [
+          "Node js",
+          "Java",
+          "Python",
+          "Angular",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "1/7/2023"
+      },
+      {
+        "name": "Bird Greasley",
+        "email": "bgreasleyq3@dot.gov",
+        "contact": "536-657-4478",
+        "skill": [
+          "Java"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "7/27/2023"
+      },
+      {
+        "name": "Josiah Drinkhall",
+        "email": "jdrinkhallq4@nbcnews.com",
+        "contact": "210-859-3729",
+        "skill": [
+          "Java",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "6/30/2023"
+      },
+      {
+        "name": "Barri Fairbridge",
+        "email": "bfairbridgeq5@squarespace.com",
+        "contact": "655-874-8514",
+        "skill": [
+          "React",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "4/17/2023"
+      },
+      {
+        "name": "Zorana Mcasparan",
+        "email": "zmcasparanq6@infoseek.co.jp",
+        "contact": "678-489-5874",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "4/21/2023"
+      },
+      {
+        "name": "Rosamund Frayn",
+        "email": "rfraynq7@w3.org",
+        "contact": "606-908-0875",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "5/2/2023"
+      },
+      {
+        "name": "Janeta Kivlin",
+        "email": "jkivlinq8@dell.com",
+        "contact": "850-682-7406",
+        "skill": [
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/26/2023"
+      },
+      {
+        "name": "Page Meecher",
+        "email": "pmeecherq9@mit.edu",
+        "contact": "507-967-2971",
+        "skill": [
+          "Java",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "2/17/2023"
+      },
+      {
+        "name": "Alayne Jenik",
+        "email": "ajenikqa@slate.com",
+        "contact": "457-218-1599",
+        "skill": [
+          "MySQL",
+          "Node js",
+          "Angular",
+          "Java",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Kerala",
+        "updated": "9/22/2023"
+      },
+      {
+        "name": "Timmy O'Gleasane",
+        "email": "togleasaneqb@digg.com",
+        "contact": "124-447-1598",
+        "skill": [
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "2/14/2023"
+      },
+      {
+        "name": "Linzy Mulryan",
+        "email": "lmulryanqc@ed.gov",
+        "contact": "980-570-4527",
+        "skill": [
+          "React",
+          "Java"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "3/11/2023"
+      },
+      {
+        "name": "Siusan Tinson",
+        "email": "stinsonqd@bigcartel.com",
+        "contact": "525-242-2114",
+        "skill": [
+          "Java",
+          "Angular",
+          "React",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "9/30/2023"
+      },
+      {
+        "name": "Stefano Broadbury",
+        "email": "sbroadburyqe@simplemachines.org",
+        "contact": "103-144-9766",
+        "skill": [
+          "MySQL",
+          "Python",
+          "React",
+          "Java",
+          "Node js"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "9/16/2023"
+      },
+      {
+        "name": "Yetta MacKniely",
+        "email": "ymacknielyqf@sina.com.cn",
+        "contact": "128-996-4080",
+        "skill": [
+          "Java",
+          "Node js",
+          "MySQL",
+          "Angular"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "2/14/2023"
+      },
+      {
+        "name": "Marilin Denes",
+        "email": "mdenesqg@jigsy.com",
+        "contact": "943-227-9799",
+        "skill": [
+          "MySQL"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "9/22/2023"
+      },
+      {
+        "name": "Bernete Seabourne",
+        "email": "bseabourneqh@boston.com",
+        "contact": "526-936-6029",
+        "skill": [
+          "Java",
+          "Angular",
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "8/17/2023"
+      },
+      {
+        "name": "Saree Pawle",
+        "email": "spawleqi@google.co.jp",
+        "contact": "371-734-3909",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "6/26/2023"
+      },
+      {
+        "name": "Arlena Pybworth",
+        "email": "apybworthqj@studiopress.com",
+        "contact": "601-913-1279",
+        "skill": [
+          "Java",
+          "Node js",
+          "MySQL",
+          "Angular",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "2/27/2023"
+      },
+      {
+        "name": "Christopher Waine",
+        "email": "cwaineqk@opera.com",
+        "contact": "530-486-9779",
+        "skill": [
+          "Angular",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "5/24/2023"
+      },
+      {
+        "name": "Hatti Tilburn",
+        "email": "htilburnql@posterous.com",
+        "contact": "500-826-4399",
+        "skill": [
+          "Angular",
+          "Node js",
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "5/28/2023"
+      },
+      {
+        "name": "Terrijo Jobbing",
+        "email": "tjobbingqm@diigo.com",
+        "contact": "658-527-8512",
+        "skill": [
+          "Java",
+          "Python",
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/27/2023"
+      },
+      {
+        "name": "Rudyard Skidmore",
+        "email": "rskidmoreqn@zimbio.com",
+        "contact": "646-280-2529",
+        "skill": [
+          "MySQL",
+          "Python",
+          "Angular"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "8/12/2023"
+      },
+      {
+        "name": "Ambur Wipper",
+        "email": "awipperqo@state.gov",
+        "contact": "891-242-0372",
+        "skill": [
+          "Java"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Mumbai",
+        "updated": "5/14/2023"
+      },
+      {
+        "name": "Bartram Wager",
+        "email": "bwagerqp@bigcartel.com",
+        "contact": "756-730-5541",
+        "skill": [
+          "Java",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "1/4/2023"
+      },
+      {
+        "name": "Cinda Lassen",
+        "email": "classenqq@geocities.com",
+        "contact": "918-566-0803",
+        "skill": [
+          "Angular",
+          "MySQL"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "7/17/2023"
+      },
+      {
+        "name": "Cindie Cherry",
+        "email": "ccherryqr@ebay.co.uk",
+        "contact": "614-984-7974",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "Mumbai",
+        "updated": "7/29/2023"
+      },
+      {
+        "name": "Micky Haselhurst",
+        "email": "mhaselhurstqs@newsvine.com",
+        "contact": "394-205-3588",
+        "skill": [
+          "Python",
+          "Angular",
+          "MySQL",
+          "Java"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "4/27/2023"
+      },
+      {
+        "name": "Tonnie Kilmurray",
+        "email": "tkilmurrayqt@apache.org",
+        "contact": "671-448-4152",
+        "skill": [
+          "MySQL",
+          "Python"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "2/8/2023"
+      },
+      {
+        "name": "Vivianna Spreadbury",
+        "email": "vspreadburyqu@bbb.org",
+        "contact": "910-161-1707",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "9/24/2023"
+      },
+      {
+        "name": "Renaud Rowaszkiewicz",
+        "email": "rrowaszkiewiczqv@purevolume.com",
+        "contact": "686-559-4478",
+        "skill": [
+          "Angular",
+          "Python",
+          "Java",
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/8/2023"
+      },
+      {
+        "name": "Giacopo Woodroffe",
+        "email": "gwoodroffeqw@businessinsider.com",
+        "contact": "632-935-1592",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "7/7/2023"
+      },
+      {
+        "name": "Glynn Blount",
+        "email": "gblountqx@nps.gov",
+        "contact": "592-978-2160",
+        "skill": [
+          "Node js",
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "6/24/2023"
+      },
+      {
+        "name": "Marin Tripney",
+        "email": "mtripneyqy@patch.com",
+        "contact": "890-458-6660",
+        "skill": [
+          "Python",
+          "Java"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "6/23/2023"
+      },
+      {
+        "name": "Angelia Ryrie",
+        "email": "aryrieqz@alibaba.com",
+        "contact": "903-709-6467",
+        "skill": [
+          "Python",
+          "Java"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/13/2023"
+      },
+      {
+        "name": "Gerard Brocket",
+        "email": "gbrocketr0@usatoday.com",
+        "contact": "620-166-7319",
+        "skill": [
+          "Java",
+          "Python",
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Kerala",
+        "updated": "9/26/2023"
+      },
+      {
+        "name": "Gertrud Dawidowitsch",
+        "email": "gdawidowitschr1@bluehost.com",
+        "contact": "308-909-5139",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "5/26/2023"
+      },
+      {
+        "name": "Corina Horder",
+        "email": "chorderr2@google.it",
+        "contact": "200-709-0271",
+        "skill": [],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "6/4/2023"
+      },
+      {
+        "name": "Tobie Casement",
+        "email": "tcasementr3@qq.com",
+        "contact": "103-971-2793",
+        "skill": [
+          "Java",
+          "Python",
+          "React",
+          "Angular"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "6/10/2023"
+      },
+      {
+        "name": "Giacinta Nolleau",
+        "email": "gnolleaur4@people.com.cn",
+        "contact": "802-486-1006",
+        "skill": [
+          "React",
+          "Java",
+          "Node js",
+          "Angular",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "3/16/2023"
+      },
+      {
+        "name": "Modestia Rambadt",
+        "email": "mrambadtr5@europa.eu",
+        "contact": "947-187-3974",
+        "skill": [
+          "Node js",
+          "Python",
+          "Angular"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "2/27/2023"
+      },
+      {
+        "name": "Cornelia Malthus",
+        "email": "cmalthusr6@furl.net",
+        "contact": "926-229-4197",
+        "skill": [],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/2/2023"
+      },
+      {
+        "name": "Archy Levay",
+        "email": "alevayr7@fotki.com",
+        "contact": "710-904-6313",
+        "skill": [
+          "React",
+          "Angular",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/18/2023"
+      },
+      {
+        "name": "Karlene Sangwine",
+        "email": "ksangwiner8@skyrock.com",
+        "contact": "123-393-8513",
+        "skill": [
+          "Node js",
+          "Angular",
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "8/2/2023"
+      },
+      {
+        "name": "Budd Penquet",
+        "email": "bpenquetr9@deliciousdays.com",
+        "contact": "537-650-0601",
+        "skill": [
+          "Node js",
+          "React",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "2/12/2023"
+      },
+      {
+        "name": "Herman Maciak",
+        "email": "hmaciakra@bloomberg.com",
+        "contact": "537-733-7154",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "3/27/2023"
+      },
+      {
+        "name": "York Ede",
+        "email": "yederb@trellian.com",
+        "contact": "207-562-6985",
+        "skill": [
+          "Python",
+          "Node js",
+          "Angular"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Delhi",
+        "updated": "4/30/2023"
+      },
+      {
+        "name": "Darby Kemwal",
+        "email": "dkemwalrc@usnews.com",
+        "contact": "732-808-6387",
+        "skill": [
+          "Java",
+          "React",
+          "Node js",
+          "Python"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "6/5/2023"
+      },
+      {
+        "name": "Timmi Gorgler",
+        "email": "tgorglerrd@gnu.org",
+        "contact": "708-109-4661",
+        "skill": [
+          "React"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "8/14/2023"
+      },
+      {
+        "name": "Edgar Maddra",
+        "email": "emaddrare@yale.edu",
+        "contact": "310-144-0064",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "9/27/2023"
+      },
+      {
+        "name": "Frederico Branca",
+        "email": "fbrancarf@spiegel.de",
+        "contact": "537-127-2365",
+        "skill": [
+          "React",
+          "Angular",
+          "Python",
+          "Node js",
+          "MySQL"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "Kerala",
+        "updated": "8/26/2023"
+      },
+      {
+        "name": "Erv Pacheco",
+        "email": "epachecorg@hhs.gov",
+        "contact": "522-638-8177",
+        "skill": [
+          "React"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "3/14/2023"
+      },
+      {
+        "name": "Nicko Shane",
+        "email": "nshanerh@twitpic.com",
+        "contact": "210-309-0105",
+        "skill": [],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "3/24/2023"
+      },
+      {
+        "name": "Staffard Wegenen",
+        "email": "swegenenri@yelp.com",
+        "contact": "198-762-0237",
+        "skill": [
+          "MySQL"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Mumbai",
+        "updated": "2/24/2023"
+      },
+      {
+        "name": "Aurel Francescoccio",
+        "email": "afrancescocciorj@buzzfeed.com",
+        "contact": "936-165-9446",
+        "skill": [
+          "Angular",
+          "React",
+          "Node js",
+          "Java",
+          "Python"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "Mumbai",
+        "updated": "3/24/2023"
+      },
+      {
+        "name": "Corby Maldin",
+        "email": "cmaldinrk@nationalgeographic.com",
+        "contact": "648-212-4544",
+        "skill": [
+          "Python",
+          "React",
+          "MySQL",
+          "Node js"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "Chennai",
+        "updated": "8/23/2023"
+      },
+      {
+        "name": "Renie Cordes",
+        "email": "rcordesrl@opera.com",
+        "contact": "823-879-3276",
+        "skill": [
+          "Java"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "1/5/2023"
+      },
+      {
+        "name": "Alanah Tuley",
+        "email": "atuleyrm@github.com",
+        "contact": "339-506-6116",
+        "skill": [
+          "React",
+          "Python"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "4/21/2023"
+      },
+      {
+        "name": "Irma Leys",
+        "email": "ileysrn@virginia.edu",
+        "contact": "440-493-9102",
+        "skill": [
+          "React",
+          "MySQL",
+          "Angular",
+          "Java"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "Chennai",
+        "updated": "6/15/2023"
+      },
+      {
+        "name": "Roxi Caps",
+        "email": "rcapsro@phpbb.com",
+        "contact": "821-584-3940",
+        "skill": [
+          "Node js",
+          "Angular",
+          "Python",
+          "Java",
+          "React"
+        ],
+        "role": "React Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "1/13/2023"
+      },
+      {
+        "name": "Edith Caldecutt",
+        "email": "ecaldecuttrp@blogs.com",
+        "contact": "664-129-1979",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Node js",
+          "Python"
+        ],
+        "role": "Front End Devloper",
+        "tag": "Ready To Join",
+        "location": "India",
+        "updated": "9/24/2023"
+      },
+      {
+        "name": "Cross Gally",
+        "email": "cgallyrq@webmd.com",
+        "contact": "891-237-1015",
+        "skill": [
+          "Python",
+          "MySQL"
+        ],
+        "role": "Full Stack Devloper",
+        "tag": "Interview",
+        "location": "Delhi",
+        "updated": "3/2/2023"
+      },
+      {
+        "name": "Aleen Andreacci",
+        "email": "aandreaccirr@hubpages.com",
+        "contact": "941-392-3181",
+        "skill": [
+          "Angular"
+        ],
+        "role": "React Devloper",
+        "tag": "Interview",
+        "location": "India",
+        "updated": "7/26/2023"
+      }
+    ],
+    "jobsData": [
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Civil Engineer",
+        "jobDescription": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js",
+          "JavaScript",
+          "React",
+          "HTML",
+          "CSS",
+          "TypeScript",
+          "C#",
+          "PHP",
+          "Ruby",
+          "Swift",
+          "Kotlin",
+          "Go",
+          "Django",
+          "Spring Boot",
+          "Express.js",
+          "SASS",
+          "LESS",
+          "GraphQL",
+          "SQL Server",
+          "PostgreSQL",
+          "MongoDB",
+          "Redis",
+          "Docker",
+          "Kubernetes",
+          "AWS",
+          "Azure",
+          "GCP",
+          "Jenkins",
+          "Git",
+          "SVN",
+          "RESTful APIs",
+          "OAuth",
+          "JWT",
+          "Elasticsearch",
+          "Firebase",
+          "RabbitMQ",
+          "Kafka",
+          "Selenium",
+          "JUnit",
+          "Maven",
+          "Gradle",
+          "Vagrant",
+          "Terraform",
+          "Nginx",
+          "Apache",
+          "JIRA",
+          "Confluence",
+          "Agile"
+        ],
+        "role": "Software Test Engineer II",
+        "client": "Bubblemix",
+        "location": "Al Madān",
+        "updated": "1/07/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Librarian",
+        "jobDescription": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "skill": [
+          "React"
+        ],
+        "role": "Health Coach II",
+        "client": "Innojam",
+        "location": "Baoshan",
+        "updated": "11/19/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Physical Therapy Assistant",
+        "jobDescription": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
+        "skill": [
+          "React",
+          "Node js",
+          "AWS"
+        ],
+        "role": "Actuary",
+        "client": "Photobug",
+        "location": "Željezno Polje",
+        "updated": "10/30/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Product Engineer",
+        "jobDescription": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "skill": [
+          "AWS",
+          "Node js",
+          "React"
+        ],
+        "role": "Nurse",
+        "client": "Oyoba",
+        "location": "Hamilton",
+        "updated": "5/26/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Desktop Support Technician",
+        "jobDescription": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "skill": [
+          "Node js",
+          "AWS"
+        ],
+        "role": "Software Consultant",
+        "client": "Voonyx",
+        "location": "Zhourui",
+        "updated": "5/16/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Recruiting Manager",
+        "jobDescription": "Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.\n\nMorbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "skill": [
+          "React",
+          "AWS",
+          "Node js"
+        ],
+        "role": "Compensation Analyst",
+        "client": "Babbleblab",
+        "location": "Korfovskiy",
+        "updated": "9/17/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Legal Assistant",
+        "jobDescription": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "skill": [
+          "React",
+          "AWS",
+          "Node js"
+        ],
+        "role": "General Manager",
+        "client": "Cogidoo",
+        "location": "Nueva Guinea",
+        "updated": "9/09/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Product Engineer",
+        "jobDescription": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "skill": [
+          "React",
+          "Node js"
+        ],
+        "role": "Senior Financial Analyst",
+        "client": "Muxo",
+        "location": "Jablah",
+        "updated": "7/19/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Professor",
+        "jobDescription": "Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.\n\nFusce consequat. Nulla nisl. Nunc nisl.",
+        "skill": [
+          "React",
+          "Node js"
+        ],
+        "role": "Geological Engineer",
+        "client": "Edgetag",
+        "location": "Mirsk",
+        "updated": "8/28/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Actuary",
+        "jobDescription": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.\n\nMaecenas tristique, est et tempus semper, est quam pharetra magna, ac consequat metus sapien ut nunc. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris viverra diam vitae quam. Suspendisse potenti.",
+        "skill": [
+          "React",
+          "Node js"
+        ],
+        "role": "Staff Scientist",
+        "client": "Jabbersphere",
+        "location": "Khānaqāh",
+        "updated": "7/12/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Nurse",
+        "jobDescription": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "VP Accounting",
+        "client": "Zooxo",
+        "location": "Bangshipu",
+        "updated": "9/16/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Senior Cost Accountant",
+        "jobDescription": "Cras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.",
+        "skill": [
+          "Node js",
+          "React"
+        ],
+        "role": "Desktop Support Technician",
+        "client": "Yodel",
+        "location": "Oratorio",
+        "updated": "3/14/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Associate Professor",
+        "jobDescription": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "skill": [
+          "AWS",
+          "React"
+        ],
+        "role": "Help Desk Technician",
+        "client": "Livefish",
+        "location": "Nidek",
+        "updated": "11/23/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Project Manager",
+        "jobDescription": "Sed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "skill": [
+          "AWS",
+          "Node js",
+          "React"
+        ],
+        "role": "Librarian",
+        "client": "Rhynyx",
+        "location": "Zapatero",
+        "updated": "2/23/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Accounting Assistant IV",
+        "jobDescription": "Aenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "skill": [
+          "Node js",
+          "AWS"
+        ],
+        "role": "VP Accounting",
+        "client": "Dabjam",
+        "location": "Sayaxché",
+        "updated": "2/18/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Dental Hygienist",
+        "jobDescription": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.\n\nAenean lectus. Pellentesque eget nunc. Donec quis orci eget orci vehicula condimentum.\n\nCurabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
+        "skill": [
+          "React"
+        ],
+        "role": "Account Coordinator",
+        "client": "Oba",
+        "location": "Opatów",
+        "updated": "12/19/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Community Outreach Specialist",
+        "jobDescription": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.\n\nInteger tincidunt ante vel ipsum. Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat.",
+        "skill": [
+          "React",
+          "Node js",
+          "AWS"
+        ],
+        "role": "Professor",
+        "client": "Chatterbridge",
+        "location": "La Esmeralda",
+        "updated": "10/30/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Payment Adjustment Coordinator",
+        "jobDescription": "Quisque id justo sit amet sapien dignissim vestibulum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Nulla dapibus dolor vel est. Donec odio justo, sollicitudin ut, suscipit a, feugiat et, eros.\n\nVestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
+        "skill": [
+          "Node js",
+          "AWS"
+        ],
+        "role": "Product Engineer",
+        "client": "Topiczoom",
+        "location": "Korniyivka",
+        "updated": "4/21/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Design Engineer",
+        "jobDescription": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "skill": [
+          "Node js",
+          "AWS",
+          "React"
+        ],
+        "role": "Research Associate",
+        "client": "Photojam",
+        "location": "Doljevac",
+        "updated": "9/22/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Quality Control Specialist",
+        "jobDescription": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Executive Secretary",
+        "client": "Gabspot",
+        "location": "Motema",
+        "updated": "8/02/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Associate Professor",
+        "jobDescription": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "skill": [
+          "Node js"
+        ],
+        "role": "VP Product Management",
+        "client": "Meezzy",
+        "location": "Kabardinka",
+        "updated": "5/27/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Community Outreach Specialist",
+        "jobDescription": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "skill": [
+          "AWS",
+          "Node js",
+          "React"
+        ],
+        "role": "Database Administrator III",
+        "client": "Meedoo",
+        "location": "Bangilan",
+        "updated": "3/04/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Pharmacist",
+        "jobDescription": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "skill": [
+          "Node js",
+          "AWS"
+        ],
+        "role": "Assistant Media Planner",
+        "client": "Devcast",
+        "location": "Labelle",
+        "updated": "10/16/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Technical Writer",
+        "jobDescription": "Curabitur at ipsum ac tellus semper interdum. Mauris ullamcorper purus sit amet nulla. Quisque arcu libero, rutrum ac, lobortis vel, dapibus at, diam.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "VP Marketing",
+        "client": "Livefish",
+        "location": "Milton",
+        "updated": "11/04/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Senior Developer",
+        "jobDescription": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.\n\nIn sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "skill": [
+          "React",
+          "AWS",
+          "Node js"
+        ],
+        "role": "Executive Secretary",
+        "client": "Riffwire",
+        "location": "Il’inskiy Pogost",
+        "updated": "8/02/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Internal Auditor",
+        "jobDescription": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.",
+        "skill": [
+          "React",
+          "Node js"
+        ],
+        "role": "Information Systems Manager",
+        "client": "Centidel",
+        "location": "Luopioinen",
+        "updated": "3/31/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Help Desk Technician",
+        "jobDescription": "Fusce consequat. Nulla nisl. Nunc nisl.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Budget/Accounting Analyst II",
+        "client": "Oba",
+        "location": "Altos",
+        "updated": "3/14/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Quality Engineer",
+        "jobDescription": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "skill": [
+          "React",
+          "Node js"
+        ],
+        "role": "Occupational Therapist",
+        "client": "Zoomcast",
+        "location": "Fier",
+        "updated": "5/10/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Analog Circuit Design manager",
+        "jobDescription": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.\n\nSed sagittis. Nam congue, risus semper porta volutpat, quam pede lobortis ligula, sit amet eleifend pede libero quis orci. Nullam molestie nibh in lectus.\n\nPellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
+        "skill": [
+          "Node js",
+          "AWS",
+          "React"
+        ],
+        "role": "Tax Accountant",
+        "client": "Buzzshare",
+        "location": "Negombo",
+        "updated": "4/23/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Financial Advisor",
+        "jobDescription": "Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.\n\nCum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Vivamus vestibulum sagittis sapien. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nEtiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Community Outreach Specialist",
+        "client": "Oyope",
+        "location": "San Buenaventura",
+        "updated": "8/31/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Budget/Accounting Analyst III",
+        "jobDescription": "Phasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "skill": [
+          "AWS",
+          "React",
+          "Node js"
+        ],
+        "role": "Executive Secretary",
+        "client": "Flipstorm",
+        "location": "Barotac Nuevo",
+        "updated": "9/01/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Occupational Therapist",
+        "jobDescription": "Proin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "skill": [
+          "Node js",
+          "AWS"
+        ],
+        "role": "Health Coach II",
+        "client": "Feedbug",
+        "location": "Newton",
+        "updated": "11/05/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Computer Systems Analyst I",
+        "jobDescription": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Biostatistician IV",
+        "client": "Quatz",
+        "location": "Kawęczyn",
+        "updated": "4/16/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Research Assistant IV",
+        "jobDescription": "Nulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.\n\nCras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Desktop Support Technician",
+        "client": "Yadel",
+        "location": "Mutang",
+        "updated": "2/26/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Pharmacist",
+        "jobDescription": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.",
+        "skill": [
+          "AWS",
+          "Node js"
+        ],
+        "role": "VP Product Management",
+        "client": "Wordpedia",
+        "location": "Gengzhuang",
+        "updated": "2/21/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Senior Cost Accountant",
+        "jobDescription": "Nullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.\n\nIn quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.\n\nMaecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
+        "skill": [
+          "AWS",
+          "Node js",
+          "React"
+        ],
+        "role": "Internal Auditor",
+        "client": "Meevee",
+        "location": "Al Jubayhah",
+        "updated": "11/16/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Geological Engineer",
+        "jobDescription": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "skill": [
+          "AWS",
+          "Node js"
+        ],
+        "role": "GIS Technical Architect",
+        "client": "Flipbug",
+        "location": "Příšovice",
+        "updated": "6/17/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Account Coordinator",
+        "jobDescription": "Phasellus sit amet erat. Nulla tempus. Vivamus in felis eu sapien cursus vestibulum.\n\nProin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Speech Pathologist",
+        "client": "Oyoba",
+        "location": "Babahoyo",
+        "updated": "4/01/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Structural Analysis Engineer",
+        "jobDescription": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Director of Sales",
+        "client": "Topicware",
+        "location": "Tengjia",
+        "updated": "11/07/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Civil Engineer",
+        "jobDescription": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
+        "skill": [
+          "Node js"
+        ],
+        "role": "VP Accounting",
+        "client": "Ozu",
+        "location": "Ake-Eze",
+        "updated": "7/20/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Staff Accountant I",
+        "jobDescription": "Praesent id massa id nisl venenatis lacinia. Aenean sit amet justo. Morbi ut odio.\n\nCras mi pede, malesuada in, imperdiet et, commodo vulputate, justo. In blandit ultrices enim. Lorem ipsum dolor sit amet, consectetuer adipiscing elit.\n\nProin interdum mauris non ligula pellentesque ultrices. Phasellus id sapien in sapien iaculis congue. Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Structural Engineer",
+        "client": "Zoonder",
+        "location": "Longhe",
+        "updated": "1/18/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Account Representative I",
+        "jobDescription": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
+        "skill": [
+          "AWS",
+          "Node js"
+        ],
+        "role": "Associate Professor",
+        "client": "Flashpoint",
+        "location": "Pensilvania",
+        "updated": "12/26/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Computer Systems Analyst III",
+        "jobDescription": "Aliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.\n\nSed ante. Vivamus tortor. Duis mattis egestas metus.\n\nAenean fermentum. Donec ut mauris eget massa tempor convallis. Nulla neque libero, convallis eget, eleifend luctus, ultricies eu, nibh.",
+        "skill": [
+          "Node js",
+          "AWS",
+          "React"
+        ],
+        "role": "Accountant III",
+        "client": "Wordware",
+        "location": "Pisaras",
+        "updated": "7/12/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Account Coordinator",
+        "jobDescription": "Morbi non lectus. Aliquam sit amet diam in magna bibendum imperdiet. Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis.",
+        "skill": [
+          "Node js",
+          "React"
+        ],
+        "role": "Compensation Analyst",
+        "client": "Dabfeed",
+        "location": "Järna",
+        "updated": "5/31/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Recruiting Manager",
+        "jobDescription": "In quis justo. Maecenas rhoncus aliquam lacus. Morbi quis tortor id nulla ultrices aliquet.",
+        "skill": [
+          "React"
+        ],
+        "role": "Recruiting Manager",
+        "client": "Fliptune",
+        "location": "Smederevo",
+        "updated": "4/19/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Senior Developer",
+        "jobDescription": "Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem.",
+        "skill": [
+          "React"
+        ],
+        "role": "Occupational Therapist",
+        "client": "Cogidoo",
+        "location": "Drumcondra",
+        "updated": "7/09/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Web Designer III",
+        "jobDescription": "In hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.\n\nNulla ut erat id mauris vulputate elementum. Nullam varius. Nulla facilisi.",
+        "skill": [
+          "Node js"
+        ],
+        "role": "Electrical Engineer",
+        "client": "InnoZ",
+        "location": "Datong",
+        "updated": "3/17/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Research Nurse",
+        "jobDescription": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.",
+        "skill": [
+          "Node js",
+          "AWS"
+        ],
+        "role": "Design Engineer",
+        "client": "Gigazoom",
+        "location": "Bromma",
+        "updated": "4/20/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Data Coordinator",
+        "jobDescription": "Etiam vel augue. Vestibulum rutrum rutrum neque. Aenean auctor gravida sem.",
+        "skill": [
+          "AWS"
+        ],
+        "role": "Computer Systems Analyst II",
+        "client": "Tagopia",
+        "location": "Khlong Hat",
+        "updated": "2/24/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Senior Sales Associate",
+        "jobDescription": "Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.\n\nDuis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.",
+        "skill": [
+          "Node js",
+          "React",
+          "AWS"
+        ],
+        "role": "Assistant Professor",
+        "client": "Realpoint",
+        "location": "Unaizah",
+        "updated": "2/11/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Product Engineer",
+        "jobDescription": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
+        "skill": [
+          "React"
+        ],
+        "role": "Recruiter",
+        "client": "Dabvine",
+        "location": "Buenavista",
+        "updated": "1/30/2024"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Analyst Programmer",
+        "jobDescription": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.",
+        "skill": [
+          "Node js"
+        ],
+        "role": "General Manager",
+        "client": "Roomm",
+        "location": "Nōgata",
+        "updated": "9/21/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Social Worker",
+        "jobDescription": "Cras non velit nec nisi vulputate nonummy. Maecenas tincidunt lacus at velit. Vivamus vel nulla eget eros elementum pellentesque.\n\nQuisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "skill": [
+          "AWS",
+          "React"
+        ],
+        "role": "Paralegal",
+        "client": "Youspan",
+        "location": "Sintansin",
+        "updated": "12/16/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Office Assistant IV",
+        "jobDescription": "Quisque porta volutpat erat. Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus.\n\nPhasellus in felis. Donec semper sapien a libero. Nam dui.",
+        "skill": [
+          "AWS",
+          "Node js",
+          "React"
+        ],
+        "role": "Administrative Assistant IV",
+        "client": "Realmix",
+        "location": "Wachira Barami",
+        "updated": "8/13/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Actuary",
+        "jobDescription": "Suspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.\n\nMaecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
+        "skill": [
+          "AWS",
+          "Node js"
+        ],
+        "role": "Staff Accountant I",
+        "client": "Minyx",
+        "location": "Mangere",
+        "updated": "6/13/2023"
+      },
+      {
+        "jobCode": "AX80453",
+        "jobTitle": "Recruiter",
+        "jobDescription": "Fusce consequat. Nulla nisl. Nunc nisl.",
+        "skill": [
+          "AWS",
+          "Node js"
+        ],
+        "role": "Help Desk Technician",
+        "client": "Tagopia",
+        "location": "Muaratiga",
+        "updated": "9/11/2023"
+      }
+    ],
+    "clientData": [
+      {
+        "client": "Twimm",
+        "contact_person": "Rochell Murtagh",
+        "email": "rmurtagh0@nature.com",
+        "contact": "890-388-0928",
+        "jobs": 6,
+        "offer": 16,
+        "joined": 5,
+        "location": "Mazkeret Batya",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Ooba",
+        "contact_person": "Mozes Penvarden",
+        "email": "mpenvarden1@istockphoto.com",
+        "contact": "509-295-6525",
+        "jobs": 6,
+        "offer": 23,
+        "joined": 1,
+        "location": "Krajan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Topicstorm",
+        "contact_person": "Tonie Allred",
+        "email": "tallred2@wunderground.com",
+        "contact": "303-393-0714",
+        "jobs": 9,
+        "offer": 24,
+        "joined": 5,
+        "location": "Pechersk",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Quimba",
+        "contact_person": "Kippy Dimeloe",
+        "email": "kdimeloe3@chicagotribune.com",
+        "contact": "408-261-3031",
+        "jobs": 17,
+        "offer": 10,
+        "joined": 3,
+        "location": "Zadní Mostek",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yakidoo",
+        "contact_person": "Rosene Romain",
+        "email": "rromain4@usatoday.com",
+        "contact": "634-681-2304",
+        "jobs": 19,
+        "offer": 17,
+        "joined": 1,
+        "location": "Nova Iguaçu",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skyndu",
+        "contact_person": "Letisha Lilburne",
+        "email": "llilburne5@vimeo.com",
+        "contact": "105-237-6640",
+        "jobs": 20,
+        "offer": 10,
+        "joined": 2,
+        "location": "Bergem",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skyble",
+        "contact_person": "Steven Prescot",
+        "email": "sprescot6@sohu.com",
+        "contact": "430-907-2008",
+        "jobs": 7,
+        "offer": 20,
+        "joined": 0,
+        "location": "Paitan Norte",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Eare",
+        "contact_person": "Annice Leedal",
+        "email": "aleedal7@webmd.com",
+        "contact": "826-115-8374",
+        "jobs": 7,
+        "offer": 26,
+        "joined": 3,
+        "location": "Volodymyrets’",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Lazzy",
+        "contact_person": "Anallese Cudbertson",
+        "email": "acudbertson8@webs.com",
+        "contact": "661-404-0366",
+        "jobs": 10,
+        "offer": 28,
+        "joined": 5,
+        "location": "Karpokhórion",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Katz",
+        "contact_person": "Beatrisa Wyke",
+        "email": "bwyke9@sphinn.com",
+        "contact": "575-820-1176",
+        "jobs": 5,
+        "offer": 20,
+        "joined": 1,
+        "location": "Millau",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fivechat",
+        "contact_person": "Lenci Spickett",
+        "email": "lspicketta@ed.gov",
+        "contact": "558-249-6458",
+        "jobs": 15,
+        "offer": 14,
+        "joined": 9,
+        "location": "Pitalito",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Plajo",
+        "contact_person": "Ara Macvain",
+        "email": "amacvainb@163.com",
+        "contact": "969-378-8856",
+        "jobs": 7,
+        "offer": 29,
+        "joined": 4,
+        "location": "Lannion",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Meembee",
+        "contact_person": "Moishe Aspling",
+        "email": "masplingc@twitter.com",
+        "contact": "523-382-2693",
+        "jobs": 19,
+        "offer": 24,
+        "joined": 4,
+        "location": "Yongning",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jatri",
+        "contact_person": "Benjie Gauntley",
+        "email": "bgauntleyd@google.it",
+        "contact": "538-790-0729",
+        "jobs": 14,
+        "offer": 1,
+        "joined": 5,
+        "location": "Mbumi",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Buzzshare",
+        "contact_person": "Chrissie Probet",
+        "email": "cprobete@trellian.com",
+        "contact": "287-101-4363",
+        "jobs": 14,
+        "offer": 10,
+        "joined": 3,
+        "location": "Viking",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Oyonder",
+        "contact_person": "Verena Ivshin",
+        "email": "vivshinf@admin.ch",
+        "contact": "516-226-3725",
+        "jobs": 16,
+        "offer": 16,
+        "joined": 4,
+        "location": "Xijiao",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Riffwire",
+        "contact_person": "Bron Grieger",
+        "email": "bgriegerg@nih.gov",
+        "contact": "160-826-8213",
+        "jobs": 16,
+        "offer": 28,
+        "joined": 7,
+        "location": "Al Marsá",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Agimba",
+        "contact_person": "Andie Cornew",
+        "email": "acornewh@msu.edu",
+        "contact": "760-992-5972",
+        "jobs": 19,
+        "offer": 4,
+        "joined": 7,
+        "location": "Karanlukh",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Feedfish",
+        "contact_person": "Claudette Tomczynski",
+        "email": "ctomczynskii@spotify.com",
+        "contact": "536-414-2027",
+        "jobs": 16,
+        "offer": 18,
+        "joined": 3,
+        "location": "Sangojar",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Katz",
+        "contact_person": "Heddie Ryman",
+        "email": "hrymanj@samsung.com",
+        "contact": "875-516-0552",
+        "jobs": 20,
+        "offer": 27,
+        "joined": 1,
+        "location": "Pañgobilian",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Oloo",
+        "contact_person": "Kaine Cowsby",
+        "email": "kcowsbyk@amazonaws.com",
+        "contact": "138-938-9163",
+        "jobs": 5,
+        "offer": 12,
+        "joined": 2,
+        "location": "Rabat",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Gabvine",
+        "contact_person": "Schuyler Cruwys",
+        "email": "scruwysl@mozilla.org",
+        "contact": "520-758-8123",
+        "jobs": 20,
+        "offer": 5,
+        "joined": 5,
+        "location": "Sundsvall",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jabbersphere",
+        "contact_person": "Oliviero Troman",
+        "email": "otromanm@privacy.gov.au",
+        "contact": "188-728-8134",
+        "jobs": 7,
+        "offer": 18,
+        "joined": 3,
+        "location": "San José de La Montaña",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Eimbee",
+        "contact_person": "Candie Wahncke",
+        "email": "cwahncken@baidu.com",
+        "contact": "917-676-6218",
+        "jobs": 6,
+        "offer": 7,
+        "joined": 6,
+        "location": "Bŭstonqal’a",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Cogilith",
+        "contact_person": "Krystyna Elijah",
+        "email": "kelijaho@gravatar.com",
+        "contact": "829-168-3263",
+        "jobs": 14,
+        "offer": 6,
+        "joined": 5,
+        "location": "Gimo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jetwire",
+        "contact_person": "Yasmeen Loblie",
+        "email": "ylobliep@wikispaces.com",
+        "contact": "437-334-5063",
+        "jobs": 5,
+        "offer": 24,
+        "joined": 3,
+        "location": "Na Kae",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Gabtune",
+        "contact_person": "Augy Brislawn",
+        "email": "abrislawnq@google.fr",
+        "contact": "538-389-7816",
+        "jobs": 12,
+        "offer": 17,
+        "joined": 10,
+        "location": "Altanbulag",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Rooxo",
+        "contact_person": "Kimberlyn Dreng",
+        "email": "kdrengr@alexa.com",
+        "contact": "445-538-4618",
+        "jobs": 6,
+        "offer": 10,
+        "joined": 7,
+        "location": "El Pino",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Edgepulse",
+        "contact_person": "Terencio Crollman",
+        "email": "tcrollmans@weibo.com",
+        "contact": "290-278-7730",
+        "jobs": 19,
+        "offer": 2,
+        "joined": 7,
+        "location": "Quán Hành",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Gigabox",
+        "contact_person": "Max Durbann",
+        "email": "mdurbannt@reddit.com",
+        "contact": "324-992-6206",
+        "jobs": 16,
+        "offer": 23,
+        "joined": 1,
+        "location": "Mingfeng",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Dabvine",
+        "contact_person": "David Knowller",
+        "email": "dknowlleru@cornell.edu",
+        "contact": "615-492-3042",
+        "jobs": 13,
+        "offer": 29,
+        "joined": 7,
+        "location": "Arroyo Naranjo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Rhybox",
+        "contact_person": "Jewel Hutchin",
+        "email": "jhutchinv@artisteer.com",
+        "contact": "202-300-6116",
+        "jobs": 20,
+        "offer": 20,
+        "joined": 1,
+        "location": "Washington",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yoveo",
+        "contact_person": "Parnell Matusson",
+        "email": "pmatussonw@mysql.com",
+        "contact": "600-275-8397",
+        "jobs": 15,
+        "offer": 22,
+        "joined": 1,
+        "location": "Budzów",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Eabox",
+        "contact_person": "Tye Leschelle",
+        "email": "tleschellex@shutterfly.com",
+        "contact": "675-446-3924",
+        "jobs": 2,
+        "offer": 22,
+        "joined": 0,
+        "location": "Buliu",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Mydo",
+        "contact_person": "Ahmad McMurrugh",
+        "email": "amcmurrughy@storify.com",
+        "contact": "107-419-1813",
+        "jobs": 18,
+        "offer": 19,
+        "joined": 8,
+        "location": "Bayt Wazan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Eidel",
+        "contact_person": "Candis Jacobsson",
+        "email": "cjacobssonz@ft.com",
+        "contact": "358-845-2523",
+        "jobs": 5,
+        "offer": 18,
+        "joined": 6,
+        "location": "Xiangcheng",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Trilith",
+        "contact_person": "Kim Gartell",
+        "email": "kgartell10@wp.com",
+        "contact": "191-494-1971",
+        "jobs": 8,
+        "offer": 28,
+        "joined": 6,
+        "location": "Roissy Charles-de-Gaulle",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Gabvine",
+        "contact_person": "Gris Bonnyson",
+        "email": "gbonnyson11@tuttocitta.it",
+        "contact": "915-740-2495",
+        "jobs": 3,
+        "offer": 3,
+        "joined": 3,
+        "location": "Firenze",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Dynabox",
+        "contact_person": "Arlene Foulgham",
+        "email": "afoulgham12@nba.com",
+        "contact": "342-347-6074",
+        "jobs": 2,
+        "offer": 26,
+        "joined": 1,
+        "location": "Pathum Ratchawongsa",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Agivu",
+        "contact_person": "Rafaellle Gercken",
+        "email": "rgercken13@github.com",
+        "contact": "463-168-2332",
+        "jobs": 16,
+        "offer": 18,
+        "joined": 1,
+        "location": "Kralupy nad Vltavou",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Livetube",
+        "contact_person": "Normy Kesterton",
+        "email": "nkesterton14@gmpg.org",
+        "contact": "686-277-0942",
+        "jobs": 14,
+        "offer": 23,
+        "joined": 3,
+        "location": "Andir",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Meevee",
+        "contact_person": "Delinda Breadon",
+        "email": "dbreadon15@state.tx.us",
+        "contact": "418-729-8265",
+        "jobs": 2,
+        "offer": 15,
+        "joined": 5,
+        "location": "Rinconada",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zava",
+        "contact_person": "Sibelle Henryson",
+        "email": "shenryson16@odnoklassniki.ru",
+        "contact": "151-238-7478",
+        "jobs": 1,
+        "offer": 19,
+        "joined": 2,
+        "location": "Fenglin",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Demizz",
+        "contact_person": "Elisa Gover",
+        "email": "egover17@amazon.com",
+        "contact": "806-244-3903",
+        "jobs": 0,
+        "offer": 23,
+        "joined": 1,
+        "location": "Naekan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Quaxo",
+        "contact_person": "Gal Verduin",
+        "email": "gverduin18@shinystat.com",
+        "contact": "178-517-7966",
+        "jobs": 14,
+        "offer": 21,
+        "joined": 4,
+        "location": "Lalagsan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fivespan",
+        "contact_person": "Donnell Morilla",
+        "email": "dmorilla19@e-recht24.de",
+        "contact": "718-570-0436",
+        "jobs": 12,
+        "offer": 13,
+        "joined": 9,
+        "location": "Imari",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Buzzbean",
+        "contact_person": "Carri Fadian",
+        "email": "cfadian1a@sciencedirect.com",
+        "contact": "974-262-9005",
+        "jobs": 3,
+        "offer": 4,
+        "joined": 2,
+        "location": "Ростуша",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skimia",
+        "contact_person": "Konstantine Betho",
+        "email": "kbetho1b@sitemeter.com",
+        "contact": "507-958-1189",
+        "jobs": 16,
+        "offer": 1,
+        "joined": 0,
+        "location": "Yanjiang",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Voomm",
+        "contact_person": "Coreen Gadeaux",
+        "email": "cgadeaux1c@acquirethisname.com",
+        "contact": "706-997-5338",
+        "jobs": 14,
+        "offer": 1,
+        "joined": 0,
+        "location": "Hafrsfjord",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Voonyx",
+        "contact_person": "Ashlie Wyman",
+        "email": "awyman1d@youtu.be",
+        "contact": "382-621-9772",
+        "jobs": 5,
+        "offer": 5,
+        "joined": 4,
+        "location": "Pitai",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Livefish",
+        "contact_person": "Ilyssa Gawthrope",
+        "email": "igawthrope1e@gizmodo.com",
+        "contact": "964-784-6943",
+        "jobs": 3,
+        "offer": 4,
+        "joined": 4,
+        "location": "Xicun",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Tagchat",
+        "contact_person": "Brandea Serrell",
+        "email": "bserrell1f@gravatar.com",
+        "contact": "869-483-9571",
+        "jobs": 10,
+        "offer": 19,
+        "joined": 6,
+        "location": "Presa",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zooxo",
+        "contact_person": "Maurine Ilem",
+        "email": "milem1g@ning.com",
+        "contact": "152-928-4225",
+        "jobs": 17,
+        "offer": 7,
+        "joined": 0,
+        "location": "Rashaant",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Flashdog",
+        "contact_person": "Rowan Webby",
+        "email": "rwebby1h@privacy.gov.au",
+        "contact": "253-233-0623",
+        "jobs": 20,
+        "offer": 1,
+        "joined": 2,
+        "location": "Linköping",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Livetube",
+        "contact_person": "Michaeline Peirson",
+        "email": "mpeirson1i@meetup.com",
+        "contact": "421-883-7805",
+        "jobs": 2,
+        "offer": 14,
+        "joined": 9,
+        "location": "Yafan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Meedoo",
+        "contact_person": "Tadeo Jeenes",
+        "email": "tjeenes1j@illinois.edu",
+        "contact": "174-435-2494",
+        "jobs": 18,
+        "offer": 13,
+        "joined": 5,
+        "location": "Sunjia",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Blognation",
+        "contact_person": "Garald Crayker",
+        "email": "gcrayker1k@google.de",
+        "contact": "549-597-4799",
+        "jobs": 13,
+        "offer": 12,
+        "joined": 4,
+        "location": "Aragua de Barcelona",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Topiclounge",
+        "contact_person": "Marissa Carlill",
+        "email": "mcarlill1l@sohu.com",
+        "contact": "421-571-0426",
+        "jobs": 11,
+        "offer": 11,
+        "joined": 9,
+        "location": "Pomahan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fivechat",
+        "contact_person": "Loy Hinstock",
+        "email": "lhinstock1m@theguardian.com",
+        "contact": "264-772-7527",
+        "jobs": 14,
+        "offer": 24,
+        "joined": 0,
+        "location": "Acul du Nord",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Meevee",
+        "contact_person": "Rem Denis",
+        "email": "rdenis1n@networkadvertising.org",
+        "contact": "963-259-4921",
+        "jobs": 13,
+        "offer": 29,
+        "joined": 10,
+        "location": "Guacara",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Tanoodle",
+        "contact_person": "Harriette Drysdale",
+        "email": "hdrysdale1o@is.gd",
+        "contact": "353-607-5170",
+        "jobs": 11,
+        "offer": 7,
+        "joined": 6,
+        "location": "Rongxi",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Wikibox",
+        "contact_person": "Riordan Goolding",
+        "email": "rgoolding1p@godaddy.com",
+        "contact": "708-117-3865",
+        "jobs": 1,
+        "offer": 19,
+        "joined": 4,
+        "location": "Keroak",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Voolia",
+        "contact_person": "Waldo Wykes",
+        "email": "wwykes1q@nih.gov",
+        "contact": "714-363-6949",
+        "jobs": 2,
+        "offer": 9,
+        "joined": 8,
+        "location": "Fullerton",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zava",
+        "contact_person": "Adrien Yerby",
+        "email": "ayerby1r@cpanel.net",
+        "contact": "469-127-7141",
+        "jobs": 12,
+        "offer": 6,
+        "joined": 9,
+        "location": "Cajamarca",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "JumpXS",
+        "contact_person": "Darill Fonso",
+        "email": "dfonso1s@e-recht24.de",
+        "contact": "409-295-2438",
+        "jobs": 0,
+        "offer": 21,
+        "joined": 3,
+        "location": "Krzęcin",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Voomm",
+        "contact_person": "Coraline Veschambre",
+        "email": "cveschambre1t@arstechnica.com",
+        "contact": "747-547-5315",
+        "jobs": 7,
+        "offer": 27,
+        "joined": 1,
+        "location": "Linares",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Linklinks",
+        "contact_person": "Levey Broadnicke",
+        "email": "lbroadnicke1u@jigsy.com",
+        "contact": "245-489-1355",
+        "jobs": 1,
+        "offer": 20,
+        "joined": 1,
+        "location": "Anuling",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Realmix",
+        "contact_person": "Babb Sponder",
+        "email": "bsponder1v@ustream.tv",
+        "contact": "879-322-7165",
+        "jobs": 3,
+        "offer": 20,
+        "joined": 0,
+        "location": "Bình Thủy",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Browsedrive",
+        "contact_person": "Kale Wrixon",
+        "email": "kwrixon1w@ucsd.edu",
+        "contact": "384-703-7740",
+        "jobs": 5,
+        "offer": 15,
+        "joined": 7,
+        "location": "Paris 10",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Gigaclub",
+        "contact_person": "Whitney Joss",
+        "email": "wjoss1x@home.pl",
+        "contact": "988-560-4101",
+        "jobs": 17,
+        "offer": 15,
+        "joined": 3,
+        "location": "Shuangqiaoping",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Cogilith",
+        "contact_person": "Bobbi Skellorne",
+        "email": "bskellorne1y@so-net.ne.jp",
+        "contact": "967-437-9620",
+        "jobs": 2,
+        "offer": 28,
+        "joined": 4,
+        "location": "Kaltungo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jaloo",
+        "contact_person": "Andy Largan",
+        "email": "alargan1z@nasa.gov",
+        "contact": "554-745-3190",
+        "jobs": 13,
+        "offer": 10,
+        "joined": 3,
+        "location": "Coalaque",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skilith",
+        "contact_person": "Duane McIlvenna",
+        "email": "dmcilvenna20@taobao.com",
+        "contact": "430-111-6054",
+        "jobs": 15,
+        "offer": 11,
+        "joined": 5,
+        "location": "Lincoln",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fivespan",
+        "contact_person": "Bowie Gehringer",
+        "email": "bgehringer21@sfgate.com",
+        "contact": "432-562-0144",
+        "jobs": 15,
+        "offer": 19,
+        "joined": 4,
+        "location": "Malvas",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Edgeify",
+        "contact_person": "Van Garfath",
+        "email": "vgarfath22@weibo.com",
+        "contact": "441-230-8485",
+        "jobs": 0,
+        "offer": 26,
+        "joined": 9,
+        "location": "Jiaocun",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zoomzone",
+        "contact_person": "Carroll Wakeman",
+        "email": "cwakeman23@businessweek.com",
+        "contact": "289-189-4184",
+        "jobs": 6,
+        "offer": 10,
+        "joined": 6,
+        "location": "Bluff",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Wordtune",
+        "contact_person": "Christalle Wealleans",
+        "email": "cwealleans24@sina.com.cn",
+        "contact": "994-381-9485",
+        "jobs": 14,
+        "offer": 15,
+        "joined": 6,
+        "location": "Caldas",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Youspan",
+        "contact_person": "Seumas Twizell",
+        "email": "stwizell25@free.fr",
+        "contact": "557-496-5383",
+        "jobs": 19,
+        "offer": 26,
+        "joined": 5,
+        "location": "Uppsala",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Youtags",
+        "contact_person": "Zerk Claremont",
+        "email": "zclaremont26@histats.com",
+        "contact": "562-891-1474",
+        "jobs": 20,
+        "offer": 24,
+        "joined": 6,
+        "location": "Panggungrejo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zoomdog",
+        "contact_person": "Morrie Forrington",
+        "email": "mforrington27@blog.com",
+        "contact": "607-747-3579",
+        "jobs": 18,
+        "offer": 26,
+        "joined": 5,
+        "location": "Mamer",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Mybuzz",
+        "contact_person": "Joby Weems",
+        "email": "jweems28@mail.ru",
+        "contact": "306-918-4110",
+        "jobs": 9,
+        "offer": 11,
+        "joined": 4,
+        "location": "Sterlibashevo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Voonte",
+        "contact_person": "Oates Yaknov",
+        "email": "oyaknov29@cocolog-nifty.com",
+        "contact": "759-823-6881",
+        "jobs": 8,
+        "offer": 6,
+        "joined": 3,
+        "location": "Kalāt-e Nāderī",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Gigazoom",
+        "contact_person": "Abdul Whatmough",
+        "email": "awhatmough2a@senate.gov",
+        "contact": "373-221-1477",
+        "jobs": 18,
+        "offer": 15,
+        "joined": 2,
+        "location": "Xinglongquan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Edgeblab",
+        "contact_person": "Marla Spirit",
+        "email": "mspirit2b@seesaa.net",
+        "contact": "260-871-5313",
+        "jobs": 19,
+        "offer": 18,
+        "joined": 6,
+        "location": "Ấp Tân Ngãi",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Eidel",
+        "contact_person": "Jenna O'Moylan",
+        "email": "jomoylan2c@deliciousdays.com",
+        "contact": "597-797-7988",
+        "jobs": 7,
+        "offer": 15,
+        "joined": 1,
+        "location": "Bāglung",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Realbridge",
+        "contact_person": "Madelena Alelsandrovich",
+        "email": "malelsandrovich2d@deviantart.com",
+        "contact": "385-490-6655",
+        "jobs": 5,
+        "offer": 18,
+        "joined": 8,
+        "location": "Orléans",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Bluejam",
+        "contact_person": "Linn Guiden",
+        "email": "lguiden2e@g.co",
+        "contact": "800-517-3127",
+        "jobs": 1,
+        "offer": 6,
+        "joined": 9,
+        "location": "Thívai",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Eimbee",
+        "contact_person": "Madlin Conisbee",
+        "email": "mconisbee2f@thetimes.co.uk",
+        "contact": "785-311-8561",
+        "jobs": 8,
+        "offer": 3,
+        "joined": 3,
+        "location": "Adraskan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Cogilith",
+        "contact_person": "Aurlie Coldridge",
+        "email": "acoldridge2g@dedecms.com",
+        "contact": "445-266-5360",
+        "jobs": 17,
+        "offer": 16,
+        "joined": 8,
+        "location": "Sinyavino",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Linklinks",
+        "contact_person": "Sissy Yele",
+        "email": "syele2h@earthlink.net",
+        "contact": "859-242-6189",
+        "jobs": 17,
+        "offer": 10,
+        "joined": 7,
+        "location": "Watergrasshill",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Mynte",
+        "contact_person": "Sanson Peacock",
+        "email": "speacock2i@intel.com",
+        "contact": "122-952-2454",
+        "jobs": 17,
+        "offer": 18,
+        "joined": 5,
+        "location": "Bitaogan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Mudo",
+        "contact_person": "Faustine Whinray",
+        "email": "fwhinray2j@networksolutions.com",
+        "contact": "282-327-8916",
+        "jobs": 7,
+        "offer": 9,
+        "joined": 4,
+        "location": "Tenggina Daya",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skinte",
+        "contact_person": "Christopher Catenot",
+        "email": "ccatenot2k@mozilla.com",
+        "contact": "559-150-8307",
+        "jobs": 18,
+        "offer": 30,
+        "joined": 9,
+        "location": "København",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zoomlounge",
+        "contact_person": "Marwin Burbury",
+        "email": "mburbury2l@rakuten.co.jp",
+        "contact": "797-703-3569",
+        "jobs": 2,
+        "offer": 20,
+        "joined": 6,
+        "location": "Cisaro",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Meeveo",
+        "contact_person": "Kurtis Meynell",
+        "email": "kmeynell2m@nature.com",
+        "contact": "625-173-8918",
+        "jobs": 4,
+        "offer": 24,
+        "joined": 3,
+        "location": "Opařany",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Realmix",
+        "contact_person": "Dix Pagram",
+        "email": "dpagram2n@statcounter.com",
+        "contact": "176-473-3336",
+        "jobs": 18,
+        "offer": 29,
+        "joined": 2,
+        "location": "Tubalan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jayo",
+        "contact_person": "Hanni Phinnis",
+        "email": "hphinnis2o@bandcamp.com",
+        "contact": "695-944-9185",
+        "jobs": 10,
+        "offer": 7,
+        "joined": 4,
+        "location": "Linjiang",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Browsetype",
+        "contact_person": "Velvet Shoreson",
+        "email": "vshoreson2p@bbb.org",
+        "contact": "206-758-0167",
+        "jobs": 9,
+        "offer": 6,
+        "joined": 9,
+        "location": "Nykarleby",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Roodel",
+        "contact_person": "Banky Stanaway",
+        "email": "bstanaway2q@ox.ac.uk",
+        "contact": "907-113-1579",
+        "jobs": 6,
+        "offer": 8,
+        "joined": 6,
+        "location": "Elliot",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yacero",
+        "contact_person": "Perrine Dewfall",
+        "email": "pdewfall2r@indiegogo.com",
+        "contact": "871-645-2138",
+        "jobs": 3,
+        "offer": 1,
+        "joined": 2,
+        "location": "Wushi",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Thoughtmix",
+        "contact_person": "Buddy Savage",
+        "email": "bsavage2s@multiply.com",
+        "contact": "276-805-7658",
+        "jobs": 13,
+        "offer": 5,
+        "joined": 10,
+        "location": "Bunut",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Livepath",
+        "contact_person": "Marty Ellcome",
+        "email": "mellcome2t@walmart.com",
+        "contact": "775-430-0319",
+        "jobs": 17,
+        "offer": 10,
+        "joined": 6,
+        "location": "Penghu",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Youbridge",
+        "contact_person": "Ivett Jencey",
+        "email": "ijencey2u@rambler.ru",
+        "contact": "476-731-2632",
+        "jobs": 7,
+        "offer": 20,
+        "joined": 6,
+        "location": "Yangwei",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Twinte",
+        "contact_person": "Sybyl Whitford",
+        "email": "swhitford2v@arizona.edu",
+        "contact": "352-307-7821",
+        "jobs": 2,
+        "offer": 12,
+        "joined": 8,
+        "location": "Tangdukou",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Feedbug",
+        "contact_person": "Faulkner Neillans",
+        "email": "fneillans2w@twitpic.com",
+        "contact": "627-752-2381",
+        "jobs": 11,
+        "offer": 21,
+        "joined": 8,
+        "location": "Cerrillos",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Twinder",
+        "contact_person": "Adelheid Coniam",
+        "email": "aconiam2x@gravatar.com",
+        "contact": "848-725-5050",
+        "jobs": 10,
+        "offer": 6,
+        "joined": 9,
+        "location": "Banjar Cemenggon",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zoomdog",
+        "contact_person": "Lila Capelen",
+        "email": "lcapelen2y@ovh.net",
+        "contact": "455-558-6162",
+        "jobs": 5,
+        "offer": 14,
+        "joined": 10,
+        "location": "Dashi",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Buzzbean",
+        "contact_person": "Cecile Kahane",
+        "email": "ckahane2z@baidu.com",
+        "contact": "895-986-2678",
+        "jobs": 13,
+        "offer": 26,
+        "joined": 1,
+        "location": "Calidñgan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zoomzone",
+        "contact_person": "Reagan Husthwaite",
+        "email": "rhusthwaite30@liveinternet.ru",
+        "contact": "250-628-7764",
+        "jobs": 18,
+        "offer": 18,
+        "joined": 3,
+        "location": "Tocha",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Edgewire",
+        "contact_person": "Madonna Badgers",
+        "email": "mbadgers31@admin.ch",
+        "contact": "662-816-0000",
+        "jobs": 16,
+        "offer": 19,
+        "joined": 4,
+        "location": "Järfälla",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Minyx",
+        "contact_person": "Kelby Reglar",
+        "email": "kreglar32@china.com.cn",
+        "contact": "625-125-8239",
+        "jobs": 2,
+        "offer": 9,
+        "joined": 9,
+        "location": "Pueblo Nuevo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Topicblab",
+        "contact_person": "Sisile Gaber",
+        "email": "sgaber33@sogou.com",
+        "contact": "742-914-3783",
+        "jobs": 10,
+        "offer": 3,
+        "joined": 0,
+        "location": "Zhoutian",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Linkbridge",
+        "contact_person": "Filia Biles",
+        "email": "fbiles34@instagram.com",
+        "contact": "452-227-3749",
+        "jobs": 15,
+        "offer": 22,
+        "joined": 4,
+        "location": "Orzu",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Camido",
+        "contact_person": "Joanie Lorenzetti",
+        "email": "jlorenzetti35@ibm.com",
+        "contact": "117-164-2375",
+        "jobs": 12,
+        "offer": 18,
+        "joined": 6,
+        "location": "Piedecuesta",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Blogspan",
+        "contact_person": "Bordie Vallance",
+        "email": "bvallance36@qq.com",
+        "contact": "612-129-7757",
+        "jobs": 15,
+        "offer": 19,
+        "joined": 4,
+        "location": "Drakino",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Voolia",
+        "contact_person": "Saloma Shimman",
+        "email": "sshimman37@sina.com.cn",
+        "contact": "387-383-5844",
+        "jobs": 2,
+        "offer": 10,
+        "joined": 5,
+        "location": "Citatah Kaler",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fivebridge",
+        "contact_person": "Murry Adds",
+        "email": "madds38@nhs.uk",
+        "contact": "709-306-1734",
+        "jobs": 8,
+        "offer": 27,
+        "joined": 9,
+        "location": "Ninh Giang",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jayo",
+        "contact_person": "Alana Matas",
+        "email": "amatas39@wordpress.org",
+        "contact": "978-379-1215",
+        "jobs": 14,
+        "offer": 28,
+        "joined": 2,
+        "location": "Barra Mansa",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Edgewire",
+        "contact_person": "Trudey Quadling",
+        "email": "tquadling3a@dyndns.org",
+        "contact": "914-205-8983",
+        "jobs": 12,
+        "offer": 3,
+        "joined": 8,
+        "location": "Falun",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Centimia",
+        "contact_person": "Chadwick Landrieu",
+        "email": "clandrieu3b@aol.com",
+        "contact": "692-852-3811",
+        "jobs": 13,
+        "offer": 2,
+        "joined": 3,
+        "location": "Kyzylorda",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Shuffletag",
+        "contact_person": "Stefanie Poacher",
+        "email": "spoacher3c@webmd.com",
+        "contact": "719-460-6329",
+        "jobs": 14,
+        "offer": 9,
+        "joined": 10,
+        "location": "Pueblo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Zooveo",
+        "contact_person": "Tonia Di Carli",
+        "email": "tdi3d@free.fr",
+        "contact": "782-204-3043",
+        "jobs": 3,
+        "offer": 12,
+        "joined": 6,
+        "location": "Dulolong",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skipfire",
+        "contact_person": "Elke Weben",
+        "email": "eweben3e@alexa.com",
+        "contact": "254-341-0510",
+        "jobs": 0,
+        "offer": 30,
+        "joined": 1,
+        "location": "Jiangcun",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Wikizz",
+        "contact_person": "Chiarra Lackie",
+        "email": "clackie3f@sciencedirect.com",
+        "contact": "216-526-7109",
+        "jobs": 7,
+        "offer": 14,
+        "joined": 3,
+        "location": "Pregonero",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yambee",
+        "contact_person": "Willy Sizey",
+        "email": "wsizey3g@noaa.gov",
+        "contact": "761-266-5142",
+        "jobs": 19,
+        "offer": 15,
+        "joined": 4,
+        "location": "Villa General Belgrano",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fliptune",
+        "contact_person": "Morganica Trowbridge",
+        "email": "mtrowbridge3h@springer.com",
+        "contact": "382-469-0667",
+        "jobs": 6,
+        "offer": 29,
+        "joined": 1,
+        "location": "Tanumshede",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Photobean",
+        "contact_person": "Koralle Albone",
+        "email": "kalbone3i@ehow.com",
+        "contact": "167-456-2106",
+        "jobs": 10,
+        "offer": 10,
+        "joined": 5,
+        "location": "Kyaukse",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Wordtune",
+        "contact_person": "Eduino Birrell",
+        "email": "ebirrell3j@hibu.com",
+        "contact": "565-568-4601",
+        "jobs": 17,
+        "offer": 11,
+        "joined": 7,
+        "location": "Bambor",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Ooba",
+        "contact_person": "Randa Claybourn",
+        "email": "rclaybourn3k@parallels.com",
+        "contact": "155-336-1514",
+        "jobs": 10,
+        "offer": 1,
+        "joined": 2,
+        "location": "Torez",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Dabtype",
+        "contact_person": "Robenia McPhee",
+        "email": "rmcphee3l@shutterfly.com",
+        "contact": "826-838-3570",
+        "jobs": 4,
+        "offer": 30,
+        "joined": 3,
+        "location": "Semiluki",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jaxspan",
+        "contact_person": "Horton Molden",
+        "email": "hmolden3m@feedburner.com",
+        "contact": "478-228-9007",
+        "jobs": 19,
+        "offer": 27,
+        "joined": 9,
+        "location": "Kantemirovka",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Kwinu",
+        "contact_person": "Feodora Sever",
+        "email": "fsever3n@multiply.com",
+        "contact": "417-644-4427",
+        "jobs": 12,
+        "offer": 19,
+        "joined": 9,
+        "location": "Jargalant",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Kayveo",
+        "contact_person": "Isa Matzaitis",
+        "email": "imatzaitis3o@unesco.org",
+        "contact": "639-196-2502",
+        "jobs": 8,
+        "offer": 1,
+        "joined": 2,
+        "location": "Parbatipur",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yakitri",
+        "contact_person": "Moreen Sharp",
+        "email": "msharp3p@indiegogo.com",
+        "contact": "606-565-9770",
+        "jobs": 2,
+        "offer": 17,
+        "joined": 8,
+        "location": "Xi’an",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Youspan",
+        "contact_person": "Audi Holehouse",
+        "email": "aholehouse3q@cnet.com",
+        "contact": "623-598-4507",
+        "jobs": 17,
+        "offer": 27,
+        "joined": 8,
+        "location": "Oebobo",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Realcube",
+        "contact_person": "Hetti Idiens",
+        "email": "hidiens3r@delicious.com",
+        "contact": "430-946-4659",
+        "jobs": 9,
+        "offer": 9,
+        "joined": 7,
+        "location": "Skibbereen",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Skajo",
+        "contact_person": "Angelo Grenshields",
+        "email": "agrenshields3s@weibo.com",
+        "contact": "799-145-7429",
+        "jobs": 14,
+        "offer": 11,
+        "joined": 8,
+        "location": "Starobachaty",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Trudoo",
+        "contact_person": "Stephanie Trimble",
+        "email": "strimble3t@thetimes.co.uk",
+        "contact": "655-685-2718",
+        "jobs": 1,
+        "offer": 16,
+        "joined": 4,
+        "location": "Tsiatsan",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Youopia",
+        "contact_person": "Westbrook Rumble",
+        "email": "wrumble3u@ebay.co.uk",
+        "contact": "995-274-1499",
+        "jobs": 14,
+        "offer": 12,
+        "joined": 9,
+        "location": "Altavista",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Photospace",
+        "contact_person": "Galina Janicki",
+        "email": "gjanicki3v@cargocollective.com",
+        "contact": "560-523-0981",
+        "jobs": 4,
+        "offer": 15,
+        "joined": 9,
+        "location": "‘Anat al Qadīmah",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Vinder",
+        "contact_person": "Daryl Mabon",
+        "email": "dmabon3w@fda.gov",
+        "contact": "399-389-1680",
+        "jobs": 3,
+        "offer": 16,
+        "joined": 5,
+        "location": "Velká Bíteš",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Flashdog",
+        "contact_person": "Jerry Cribbott",
+        "email": "jcribbott3x@cisco.com",
+        "contact": "370-311-4169",
+        "jobs": 9,
+        "offer": 15,
+        "joined": 1,
+        "location": "Zaokskiy",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Mybuzz",
+        "contact_person": "Adamo Glackin",
+        "email": "aglackin3y@youtu.be",
+        "contact": "839-285-3146",
+        "jobs": 17,
+        "offer": 8,
+        "joined": 3,
+        "location": "Bilhó",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Thoughtbeat",
+        "contact_person": "Vonni Wavell",
+        "email": "vwavell3z@bravesites.com",
+        "contact": "291-432-6233",
+        "jobs": 2,
+        "offer": 19,
+        "joined": 9,
+        "location": "Glad",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Ozu",
+        "contact_person": "Gizela Wells",
+        "email": "gwells40@vinaora.com",
+        "contact": "549-485-6171",
+        "jobs": 11,
+        "offer": 4,
+        "joined": 4,
+        "location": "Kunwi",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Layo",
+        "contact_person": "Kellia Epsley",
+        "email": "kepsley41@wired.com",
+        "contact": "471-449-4513",
+        "jobs": 0,
+        "offer": 1,
+        "joined": 8,
+        "location": "Kertosari",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yodel",
+        "contact_person": "Etta Kerbey",
+        "email": "ekerbey42@cisco.com",
+        "contact": "753-452-6921",
+        "jobs": 17,
+        "offer": 15,
+        "joined": 0,
+        "location": "Vilnius",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Fanoodle",
+        "contact_person": "Lars Lalevee",
+        "email": "llalevee43@engadget.com",
+        "contact": "630-667-3527",
+        "jobs": 17,
+        "offer": 2,
+        "joined": 5,
+        "location": "Basiong",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Jaloo",
+        "contact_person": "Taite Gilmore",
+        "email": "tgilmore44@soundcloud.com",
+        "contact": "868-844-8376",
+        "jobs": 18,
+        "offer": 24,
+        "joined": 2,
+        "location": "Zhongshu",
+        "updated": "10/01/2023"
+      },
+      {
+        "client": "Yacero",
+        "contact_person": "Jeralee Lyfield",
+        "email": "jlyfield45@mashable.com",
+        "contact": "725-703-7711",
+        "jobs": 15,
+        "offer": 25,
+        "joined": 6,
+        "location": "Tongjin",
+        "updated": "10/01/2023"
+      }
+    ],
+    "EmployeeData": [
+      {
+        "EmployeeCode": "EMP0001",
+        "EmployeeName": "John Doe",
+        "DateofJoining": "01/01/2015",
+        "EmployeeEmail": "john.doe@example.com",
+        "contact": "1234567890",
+        "Designation": "Software Engineer",
+        "DateofRelese": "01/01/2025",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0002",
+        "EmployeeName": "Jane Smith",
+        "DateofJoining": "02/02/2016",
+        "EmployeeEmail": "jane.smith@example.com",
+        "contact": "2345678901",
+        "Designation": "Data Analyst",
+        "DateofRelese": "02/02/2026",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0003",
+        "EmployeeName": "Alice Johnson",
+        "DateofJoining": "03/03/2017",
+        "EmployeeEmail": "alice.johnson@example.com",
+        "contact": "3456789012",
+        "Designation": "Project Manager",
+        "DateofRelese": "03/03/2027",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0004",
+        "EmployeeName": "Bob Brown",
+        "DateofJoining": "04/04/2018",
+        "EmployeeEmail": "bob.brown@example.com",
+        "contact": "4567890123",
+        "Designation": "UX Designer",
+        "DateofRelese": "04/04/2028",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0005",
+        "EmployeeName": "Carol Davis",
+        "DateofJoining": "05/05/2019",
+        "EmployeeEmail": "carol.davis@example.com",
+        "contact": "5678901234",
+        "Designation": "QA Engineer",
+        "DateofRelese": "05/05/2029",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0006",
+        "EmployeeName": "David Wilson",
+        "DateofJoining": "06/06/2020",
+        "EmployeeEmail": "david.wilson@example.com",
+        "contact": "6789012345",
+        "Designation": "DevOps Engineer",
+        "DateofRelese": "06/06/2030",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0007",
+        "EmployeeName": "Eve Moore",
+        "DateofJoining": "07/07/2021",
+        "EmployeeEmail": "eve.moore@example.com",
+        "contact": "7890123456",
+        "Designation": "Database Administrator",
+        "DateofRelese": "07/07/2031",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0008",
+        "EmployeeName": "Frank Taylor",
+        "DateofJoining": "08/08/2022",
+        "EmployeeEmail": "frank.taylor@example.com",
+        "contact": "8901234567",
+        "Designation": "Business Analyst",
+        "DateofRelese": "08/08/2032",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0009",
+        "EmployeeName": "Grace Anderson",
+        "DateofJoining": "09/09/2023",
+        "EmployeeEmail": "grace.anderson@example.com",
+        "contact": "9012345678",
+        "Designation": "System Architect",
+        "DateofRelese": "09/09/2033",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0010",
+        "EmployeeName": "Henry Thomas",
+        "DateofJoining": "10/10/2024",
+        "EmployeeEmail": "henry.thomas@example.com",
+        "contact": "0123456789",
+        "Designation": "Network Engineer",
+        "DateofRelese": "10/10/2034",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0011",
+        "EmployeeName": "Ivy Harris",
+        "DateofJoining": "11/11/2022",
+        "EmployeeEmail": "ivy.harris@example.com",
+        "contact": "2345678901",
+        "Designation": "Content Writer",
+        "DateofRelese": "11/11/2032",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0012",
+        "EmployeeName": "Jack Clark",
+        "DateofJoining": "12/12/2021",
+        "EmployeeEmail": "jack.clark@example.com",
+        "contact": "3456789012",
+        "Designation": "SEO Specialist",
+        "DateofRelese": "12/12/2031",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0013",
+        "EmployeeName": "Kim Lee",
+        "DateofJoining": "13/01/2020",
+        "EmployeeEmail": "kim.lee@example.com",
+        "contact": "4567890123",
+        "Designation": "Marketing Manager",
+        "DateofRelese": "13/01/2030",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0014",
+        "EmployeeName": "Liam Walker",
+        "DateofJoining": "14/02/2019",
+        "EmployeeEmail": "liam.walker@example.com",
+        "contact": "5678901234",
+        "Designation": "Sales Executive",
+        "DateofRelese": "14/02/2029",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0015",
+        "EmployeeName": "Mia Robinson",
+        "DateofJoining": "15/03/2018",
+        "EmployeeEmail": "mia.robinson@example.com",
+        "contact": "6789012345",
+        "Designation": "HR Specialist",
+        "DateofRelese": "15/03/2028",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0016",
+        "EmployeeName": "Noah Lewis",
+        "DateofJoining": "16/04/2017",
+        "EmployeeEmail": "noah.lewis@example.com",
+        "contact": "7890123456",
+        "Designation": "Customer Support",
+        "DateofRelese": "16/04/2027",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0017",
+        "EmployeeName": "Olivia Martinez",
+        "DateofJoining": "17/05/2016",
+        "EmployeeEmail": "olivia.martinez@example.com",
+        "contact": "8901234567",
+        "Designation": "Administrative Assistant",
+        "DateofRelese": "17/05/2026",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0018",
+        "EmployeeName": "Paul Hernandez",
+        "DateofJoining": "18/06/2015",
+        "EmployeeEmail": "paul.hernandez@example.com",
+        "contact": "9012345678",
+        "Designation": "Product Manager",
+        "DateofRelese": "18/06/2025",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0019",
+        "EmployeeName": "Quinn Adams",
+        "DateofJoining": "19/07/2014",
+        "EmployeeEmail": "quinn.adams@example.com",
+        "contact": "0123456789",
+        "Designation": "Operations Manager",
+        "DateofRelese": "19/07/2024",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0020",
+        "EmployeeName": "Rachel Evans",
+        "DateofJoining": "20/08/2013",
+        "EmployeeEmail": "rachel.evans@example.com",
+        "contact": "1234567890",
+        "Designation": "Chief Financial Officer",
+        "DateofRelese": "20/08/2023",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0021",
+        "EmployeeName": "Samuel Wright",
+        "DateofJoining": "21/09/2012",
+        "EmployeeEmail": "samuel.wright@example.com",
+        "contact": "2345678901",
+        "Designation": "Chief Technology Officer",
+        "DateofRelese": "21/09/2022",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0022",
+        "EmployeeName": "Tina Roberts",
+        "DateofJoining": "22/10/2011",
+        "EmployeeEmail": "tina.roberts@example.com",
+        "contact": "3456789012",
+        "Designation": "Chief Operating Officer",
+        "DateofRelese": "22/10/2021",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0023",
+        "EmployeeName": "Ulysses Carter",
+        "DateofJoining": "23/11/2010",
+        "EmployeeEmail": "ulysses.carter@example.com",
+        "contact": "4567890123",
+        "Designation": "Chief Marketing Officer",
+        "DateofRelese": "23/11/2020",
+        "status": "Active"
+      },
+      {
+        "EmployeeCode": "EMP0024",
+        "EmployeeName": "Victoria Collins",
+        "DateofJoining": "24/12/2009",
+        "EmployeeEmail": "victoria.collins@example.com",
+        "contact": "5678901234",
+        "Designation": "Chief Human Resources Officer",
+        "DateofRelese": "24/12/2019",
+        "status": "Active"
+      }
+    ],
+    "proposalData": [
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      },
+      {
+        "name": "Karissa Gomme",
+        "email": "kgomme0@tiny.cc",
+        "contact": "610-224-4338",
+        "skill": [
+          "Angular",
+          "MySQL",
+          "Java",
+          "Python",
+          "Node js"
+        ],
+        "tag": "Interview",
+        "status": "6.5L/10L/6 Weeks"
+      }
+    ],
+    "candidateFieldMappings": {
+      "headerData": [
+        {
+          "A": "Candidate Name",
+          "B": "Candidate Email",
+          "C": "Contact Number",
+          "D": "Skill",
+          "E": "Role",
+          "F": "Location",
+          "G": "Country",
+          "H": "State"
+        }
+      ],
+      "sampleData": [
+        {
+          "A": "NandhaKumar.Sri",
+          "B": "nandhakumarsri@gmail.com",
+          "C": "6381068156",
+          "D": "React,NodeJS,AngularJS",
+          "E": "Digital Operations",
+          "F": "Karur",
+          "G": "India",
+          "H": "Tamilnadu"
+        }
+      ]
+    },
+    "clientFieldMappings": {
+      "headerData": [
+        {
+          "A": "Client Name",
+          "B": "Client Email",
+          "C": "Contact Number",
+          "D": "Contact person",
+          "E": "Country",
+          "F": "State",
+          "G": "Designation",
+          "H": "Priority"
+        }
+      ],
+      "sampleData": [
+        {
+          "A": "Vybog pvt",
+          "B": "vybog@gmail.com",
+          "C": "6381068156",
+          "D": "NandhaKumar.Sri",
+          "E": "India",
+          "F": "Tamilnadu",
+          "G": "Developer",
+          "H": "Hot"
+        }
+      ]
+    },
+    "EmployeeDesignation": [
+      {
+        "orderNO": 1,
+        "designation": "Administrator"
+      },
+      {
+        "orderNO": 2,
+        "designation": "CEO"
+      },
+      {
+        "orderNO": 3,
+        "designation": "Client relationship executive"
+      },
+      {
+        "orderNO": 4,
+        "designation": "Content Head"
+      },
+      {
+        "orderNO": 5,
+        "designation": "CRM"
+      },
+      {
+        "orderNO": 6,
+        "designation": "CTO"
+      },
+      {
+        "orderNO": 7,
+        "designation": "Director of Operations"
+      },
+      {
+        "orderNO": 8,
+        "designation": "Intern"
+      },
+      {
+        "orderNO": 9,
+        "designation": "Internship"
+      },
+      {
+        "orderNO": 10,
+        "designation": "Owner"
+      },
+      {
+        "orderNO": 11,
+        "designation": "Recruiter"
+      },
+      {
+        "orderNO": 12,
+        "designation": "Recruiter 1"
+      },
+      {
+        "orderNO": 13,
+        "designation": "Senior Bench Sales Manager"
+      },
+      {
+        "orderNO": 14,
+        "designation": "Senior Recruiters"
+      },
+      {
+        "orderNO": 15,
+        "designation": "Soft Skills Trainer"
+      },
+      {
+        "orderNO": 16,
+        "designation": "software developer"
+      },
+      {
+        "orderNO": 17,
+        "designation": "Software Tester"
+      },
+      {
+        "orderNO": 18,
+        "designation": "Talent Acquisition specialist"
+      },
+      {
+        "orderNO": 19,
+        "designation": "Team Leads"
+      },
+      {
+        "orderNO": 20,
+        "designation": "React Devolper"
+      }
+    ],
+    "EmployeeMonthWiseLeaveDetails": [
+      {
+        "name": "Nandhakumar Sri",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 6,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 1,
+          "ml": 0,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 0,
+          "ml": 1,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "John Doe",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 1,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Jane Smith",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 5,
+          "wfh": 3,
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 2,
+          "wfh": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Michael Johnson",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": 2
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 1,
+          "ml": 0,
+          "wfh": 0,
+          "compOff": 1,
+          "npd": 1,
+          "lop": 2
+        },
+        "available": {
+          "cl": 3,
+          "ml": 3,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Emily Davis",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 0,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 4,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Robert Brown",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 2,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 4,
+          "ml": 0,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": 1,
+          "lop": 1
+        },
+        "available": {
+          "cl": 2,
+          "ml": 2,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Lisa Wilson",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 5,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 1,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 4,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "David Lee",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 4,
+          "wfh": 1,
+          "compOff": 3,
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 0,
+          "wfh": 0,
+          "compOff": 2,
+          "npd": 1,
+          "lop": 1
+        },
+        "available": {
+          "cl": 4,
+          "ml": 4,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Maria Gonzalez",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 6,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 1,
+          "wfh": "-",
+          "compOff": 0,
+          "npd": "-",
+          "lop": 2
+        },
+        "available": {
+          "cl": 2,
+          "ml": 5,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Chris Miller",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 5,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 4,
+          "ml": 0,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 5,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Karen Clark",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 4,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 1,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Tom Harris",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 3,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 0,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Amit Sharma",
+        "month": "August 2024",
+        "applicable": {
+          "cl": 8,
+          "ml": 5,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 2,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Rita Patel",
+        "month": "September 2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 4,
+          "wfh": 3,
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 2,
+          "ml": 1,
+          "wfh": 2,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Rajesh Kumar",
+        "month": "October 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 6,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 2
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 4,
+          "ml": 2,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Sita Devi",
+        "month": "November 2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 7,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 3,
+          "ml": 4,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Karan Singh",
+        "month": "December 2024",
+        "applicable": {
+          "cl": 10,
+          "ml": 4,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 2
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 6,
+          "ml": 2,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 1
+        },
+        "available": {
+          "cl": 4,
+          "ml": 2,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Neha Sharma",
+        "month": "January 2025",
+        "applicable": {
+          "cl": 8,
+          "ml": 5,
+          "wfh": 2,
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 5,
+          "ml": 3,
+          "wfh": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 3,
+          "ml": 2,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Vikram Yadav",
+        "month": "February 2025",
+        "applicable": {
+          "cl": 6,
+          "ml": 6,
+          "wfh": 0,
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "28",
+          "cl": 3,
+          "ml": 4,
+          "wfh": 0,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 2,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Anita Verma",
+        "month": "March 2025",
+        "applicable": {
+          "cl": 7,
+          "ml": 5,
+          "wfh": 3,
+          "compOff": "-",
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 3,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 2,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Deepak Singh",
+        "month": "April 2025",
+        "applicable": {
+          "cl": 5,
+          "ml": 6,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 4,
+          "ml": 2,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 1,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Priya Gupta",
+        "month": "May 2025",
+        "applicable": {
+          "cl": 8,
+          "ml": 4,
+          "wfh": 2,
+          "compOff": 1,
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 6,
+          "ml": 2,
+          "wfh": 1,
+          "compOff": 1,
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 2,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Suresh Nair",
+        "month": "June 2025",
+        "applicable": {
+          "cl": 6,
+          "ml": 7,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 3,
+          "ml": 3,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Aarti Mehta",
+        "month": "July 2025",
+        "applicable": {
+          "cl": 7,
+          "ml": 5,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 1,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Nandhakumar Sri",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 6,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 1,
+          "ml": 0,
+          "wfh": 0,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 0,
+          "ml": 1,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Alex Johnson",
+        "month": "August 2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 5,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 1,
+          "wfh": 2,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Maria Green",
+        "month": "July 2024",
+        "applicable": {
+          "cl": 8,
+          "ml": 6,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 0,
+          "ml": 0,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 8,
+          "ml": 6,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "John Doe",
+        "month": "June 2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 2,
+          "wfh": 5,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 3,
+          "ml": 0,
+          "wfh": 3,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 2,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Emma Williams",
+        "month": "May 2024",
+        "applicable": {
+          "cl": 10,
+          "ml": 7,
+          "wfh": 5,
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 5,
+          "ml": 3,
+          "wfh": 0,
+          "compOff": 2,
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 5
+        }
+      },
+      {
+        "name": "David Smith",
+        "month": "April 2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 4,
+          "wfh": 3,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 1,
+          "ml": 1,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Sophia Miller",
+        "month": "March 2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 5,
+          "wfh": 2,
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 2,
+          "wfh": 0,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Michael Brown",
+        "month": "February 2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 4,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "29",
+          "cl": 1,
+          "ml": 0,
+          "wfh": 3,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": 1
+        }
+      }
+    ],
+    "EmployeeYearWiseLeaveDetails": [
+      {
+        "name": "Nandhakumar Sri",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 6,
+          "wfh": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 1,
+          "ml": 0,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 0,
+          "ml": 1,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "John Doe",
+        "year": "2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 1,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Jane Smith",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 5,
+          "wfh": 3,
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 2,
+          "wfh": 1,
+          "pl": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Michael Johnson",
+        "year": "2024",
+        "applicable": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": 2
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 1,
+          "ml": 0,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": 1,
+          "npd": 1,
+          "lop": 2
+        },
+        "available": {
+          "cl": 3,
+          "ml": 3,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Emily Davis",
+        "year": "2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 4,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 0,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 3,
+          "ml": 4,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Robert Brown",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 2,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 4,
+          "ml": 0,
+          "wfh": "-",
+          "pl": 1,
+          "compOff": 1,
+          "npd": 1,
+          "lop": 1
+        },
+        "available": {
+          "cl": 2,
+          "ml": 2,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Lisa Wilson",
+        "year": "2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 5,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 1,
+          "wfh": "-",
+          "pl": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 4,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "David Lee",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 4,
+          "wfh": 1,
+          "compOff": 3,
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 0,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": 2,
+          "npd": 1,
+          "lop": 1
+        },
+        "available": {
+          "cl": 4,
+          "ml": 4,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Maria Gonzalez",
+        "year": "2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 6,
+          "wfh": "-",
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 1,
+          "wfh": "-",
+          "pl": 1,
+          "compOff": 0,
+          "npd": "-",
+          "lop": 2
+        },
+        "available": {
+          "cl": 2,
+          "ml": 5,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Chris Miller",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 5,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 4,
+          "ml": 0,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 5,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Karen Clark",
+        "year": "2024",
+        "applicable": {
+          "cl": 7,
+          "ml": 4,
+          "wfh": "-",
+          "compOff": 2,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 1,
+          "wfh": "-",
+          "pl": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Tom Harris",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 3,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": 1
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 2,
+          "ml": 0,
+          "wfh": "-",
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 4,
+          "ml": 3,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Amit Sharma",
+        "year": "2024",
+        "applicable": {
+          "cl": 8,
+          "ml": 5,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 3,
+          "ml": 2,
+          "wfh": 1,
+          "pl": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Rita Patel",
+        "year": "2022",
+        "applicable": {
+          "cl": 7,
+          "ml": 4,
+          "wfh": 3,
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 2,
+          "ml": 1,
+          "wfh": 2,
+          "pl": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 5,
+          "ml": 3,
+          "wfh": 1
+        }
+      },
+      {
+        "name": "Rajesh Kumar",
+        "year": "2024",
+        "applicable": {
+          "cl": 6,
+          "ml": 6,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 2
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 4,
+          "ml": 2,
+          "wfh": 1,
+          "pl": 1,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 4,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Sita Devi",
+        "year": "2024",
+        "applicable": {
+          "cl": 5,
+          "ml": 7,
+          "wfh": 2,
+          "compOff": "-",
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "30",
+          "cl": 3,
+          "ml": 4,
+          "wfh": 0,
+          "pl": 1,
+          "compOff": "-",
+          "npd": "-",
+          "lop": 0
+        },
+        "available": {
+          "cl": 2,
+          "ml": 3,
+          "wfh": 2
+        }
+      },
+      {
+        "name": "Karan Singh",
+        "year": "2024",
+        "applicable": {
+          "cl": 10,
+          "ml": 4,
+          "wfh": 1,
+          "compOff": "-",
+          "npd": 2
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 6,
+          "ml": 2,
+          "wfh": 1,
+          "pl": 1,
+          "compOff": "-",
+          "npd": 1,
+          "lop": 1
+        },
+        "available": {
+          "cl": 4,
+          "ml": 2,
+          "wfh": 0
+        }
+      },
+      {
+        "name": "Neha Sharma",
+        "year": "2025",
+        "applicable": {
+          "cl": 8,
+          "ml": 5,
+          "wfh": 2,
+          "compOff": 1,
+          "npd": "-"
+        },
+        "takenByEmployee": {
+          "totalDays": "31",
+          "cl": 5,
+          "ml": 3,
+          "wfh": 1,
+          "pl": 1,
+          "compOff": 1,
+          "npd": "-",
+          "lop": 1
+        },
+        "available": {
+          "cl": 3,
+          "ml": 2,
+          "wfh": 1
+        }
+      }
+    ],
+    "AllReports": [
+      {
+        "name": "Ajay Patel",
+        "department": "Marketing Department",
+        "date": "Sep 16, 2024",
+        "inTime": "10:12 AM",
+        "outTime": "07:36 PM",
+        "timeSpent": "9.4",
+        "workingHrs": "9:24",
+        "zone": "IST",
+        "Recks": 5
+      },
+      {
+        "name": "Deepak T",
+        "department": "Marketing Department",
+        "date": "Aug 30, 2024",
+        "inTime": "09:55 AM",
+        "outTime": "07:26 PM",
+        "timeSpent": "9.52",
+        "workingHrs": "9:31",
+        "zone": "IST",
+        "Recks": 2
+      },
+      {
+        "name": "Ramesh K",
+        "department": "IT Department",
+        "date": "Sep 08, 2024",
+        "inTime": "09:00 AM",
+        "outTime": "04:34 PM",
+        "timeSpent": "7.57",
+        "workingHrs": "7:34",
+        "zone": "IST",
+        "Recks": 5
+      },
+      {
+        "name": "Ravi Verma",
+        "department": "IT Department",
+        "date": "Aug 29, 2024",
+        "inTime": "10:17 AM",
+        "outTime": "07:05 PM",
+        "timeSpent": "8.8",
+        "workingHrs": "8:48",
+        "zone": "IST",
+        "Recks": 0
+      },
+      {
+        "name": "Vikram N",
+        "department": "IT Department",
+        "date": "Sep 25, 2024",
+        "inTime": "09:02 AM",
+        "outTime": "04:27 PM",
+        "timeSpent": "7.42",
+        "workingHrs": "7:25",
+        "zone": "IST",
+        "Recks": 4
+      },
+      {
+        "name": "Ravi Verma",
+        "department": "Sales Department",
+        "date": "Sep 12, 2024",
+        "inTime": "10:23 AM",
+        "outTime": "06:01 PM",
+        "timeSpent": "7.63",
+        "workingHrs": "7:38",
+        "zone": "IST",
+        "Recks": 3
+      },
+      {
+        "name": "Arjun Dev",
+        "department": "Marketing Department",
+        "date": "Sep 19, 2024",
+        "inTime": "08:48 AM",
+        "outTime": "05:41 PM",
+        "timeSpent": "8.88",
+        "workingHrs": "8:53",
+        "zone": "IST",
+        "Recks": 4
+      },
+      {
+        "name": "Suresh R",
+        "department": "Sales Department",
+        "date": "Sep 11, 2024",
+        "inTime": "09:31 AM",
+        "outTime": "07:37 PM",
+        "timeSpent": "10.1",
+        "workingHrs": "10:06",
+        "zone": "IST",
+        "Recks": 0
+      },
+      {
+        "name": "Kiran L",
+        "department": "HR Department",
+        "date": "Aug 28, 2024",
+        "inTime": "09:43 AM",
+        "outTime": "07:21 PM",
+        "timeSpent": "9.63",
+        "workingHrs": "9:38",
+        "zone": "IST",
+        "Recks": 2
+      },
+      {
+        "name": "Rajesh G",
+        "department": "HR Department",
+        "date": "Sep 23, 2024",
+        "inTime": "09:05 AM",
+        "outTime": "06:38 PM",
+        "timeSpent": "9.55",
+        "workingHrs": "9:33",
+        "zone": "IST",
+        "Recks": 1
+      },
+      {
+        "name": "Sneha R",
+        "department": "IT Department",
+        "date": "Aug 29, 2024",
+        "inTime": "08:26 AM",
+        "outTime": "05:02 PM",
+        "timeSpent": "8.6",
+        "workingHrs": "8:36",
+        "zone": "IST",
+        "Recks": 2
+      },
+      {
+        "name": "Nandhakumar Sri",
+        "department": "Marketing Department",
+        "date": "Sep 10, 2024",
+        "inTime": "08:47 AM",
+        "outTime": "04:13 PM",
+        "timeSpent": "7.43",
+        "workingHrs": "7:26",
+        "zone": "IST",
+        "Recks": 2
+      },
+      {
+        "name": "Anushka M",
+        "department": "Sales Department",
+        "date": "Sep 23, 2024",
+        "inTime": "09:27 AM",
+        "outTime": "06:43 PM",
+        "timeSpent": "9.27",
+        "workingHrs": "9:16",
+        "zone": "IST",
+        "Recks": 4
+      },
+      {
+        "name": "Rajesh G",
+        "department": "Finance Department",
+        "date": "Sep 20, 2024",
+        "inTime": "10:16 AM",
+        "outTime": "07:00 PM",
+        "timeSpent": "8.73",
+        "workingHrs": "8:44",
+        "zone": "IST",
+        "Recks": 4
+      },
+      {
+        "name": "Sneha R",
+        "department": "HR Department",
+        "date": "Sep 25, 2024",
+        "inTime": "10:34 AM",
+        "outTime": "05:34 PM",
+        "timeSpent": "7.0",
+        "workingHrs": "7:00",
+        "zone": "IST",
+        "Recks": 2
+      },
+      {
+        "name": "Deepak T",
+        "department": "Sales Department",
+        "date": "Aug 26, 2024",
+        "inTime": "09:42 AM",
+        "outTime": "07:18 PM",
+        "timeSpent": "9.6",
+        "workingHrs": "9:36",
+        "zone": "IST",
+        "Recks": 4
+      },
+      {
+        "name": "Ramesh K",
+        "department": "Marketing Department",
+        "date": "Aug 30, 2024",
+        "inTime": "09:49 AM",
+        "outTime": "08:22 PM",
+        "timeSpent": "10.55",
+        "workingHrs": "10:33",
+        "zone": "IST",
+        "Recks": 3
+      },
+      {
+        "name": "Divya Sharma",
+        "department": "Finance Department",
+        "date": "Sep 05, 2024",
+        "inTime": "08:40 AM",
+        "outTime": "06:50 PM",
+        "timeSpent": "10.17",
+        "workingHrs": "10:10",
+        "zone": "IST",
+        "Recks": 3
+      },
+      {
+        "name": "Anushka M",
+        "department": "Marketing Department",
+        "date": "Sep 10, 2024",
+        "inTime": "10:11 AM",
+        "outTime": "05:35 PM",
+        "timeSpent": "7.4",
+        "workingHrs": "7:24",
+        "zone": "IST",
+        "Recks": 5
+      },
+      {
+        "name": "Suresh R",
+        "department": "Sales Department",
+        "date": "Sep 12, 2024",
+        "inTime": "09:14 AM",
+        "outTime": "07:40 PM",
+        "timeSpent": "10.43",
+        "workingHrs": "10:26",
+        "zone": "IST",
+        "Recks": 1
+      }
+    ]
+  }
+}

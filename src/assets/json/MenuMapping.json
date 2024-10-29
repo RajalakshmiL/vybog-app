@@ -1,0 +1,689 @@
+{
+    "menuMapping": {
+        "mappingMenusData": [
+            {
+                "designation": "CRM",
+                "users": [
+                    "Admin Vybog",
+                    "Nandhakumar Sri",
+                    "Kartik",
+                    "Yash",
+                    "Varun",
+                    "Gaurav",
+                    "Aditya",
+                    "Pranav",
+                    "Kavya",
+                    "Sakshi",
+                    "Zoya",
+                    "Radhika",
+                    "Brandon",
+                    "Charles",
+                    "Gaurav",
+                    "Aditya",
+                    "Pranav",
+                    "Kavya",
+                    "Sakshi",
+                    "Zoya",
+                    "Radhika",
+                    "Sakshi",
+                    "Zoya",
+                    "Radhika",
+                    "Brandon",
+                    "Charles",
+                    "Gaurav",
+                    "Aditya",
+                    "Pranav",
+                    "Kavya",
+                    "Sakshi",
+                    "Zoya"
+                ]
+            },
+            {
+                "designation": "Team Leads",
+                "users": [
+                    "Gaurav",
+                    "Aditya",
+                    "Pranav",
+                    "Kavya",
+                    "Sakshi",
+                    "Zoya",
+                    "Radhika",
+                    "Brandon",
+                    "Charles"
+                ]
+            },
+            {
+                "designation": "Recruiter",
+                "users": [
+                    "Amit",
+                    "Neha",
+                    "Suresh",
+                    "Divya",
+                    "Sneha"
+                ]
+            },
+            {
+                "designation": "Director of Operations",
+                "users": [
+                    "Michael",
+                    "Samantha",
+                    "David",
+                    "Emily"
+                ]
+            },
+            {
+                "designation": "Administrator",
+                "users": [
+                    "Rohit",
+                    "Nikhil",
+                    "Priya",
+                    "Vikram"
+                ]
+            },
+            {
+                "designation": "Senior Bench Sales Manager",
+                "users": [
+                    "Suraj",
+                    "Manish",
+                    "Deepika",
+                    "Harsha"
+                ]
+            },
+            {
+                "designation": "Content Head",
+                "users": [
+                    "Nidhi",
+                    "Aishwarya",
+                    "Rakesh",
+                    "Varsha"
+                ]
+            },
+            {
+                "designation": "Client Relationship Executive",
+                "users": [
+                    "Megha",
+                    "Vinay",
+                    "Swati",
+                    "Ajay"
+                ]
+            },
+            {
+                "designation": "Software Tester",
+                "users": [
+                    "Suman",
+                    "Arjun",
+                    "Riya",
+                    "Preeti"
+                ]
+            },
+            {
+                "designation": "Internship",
+                "users": [
+                    "Ankita",
+                    "Rahul",
+                    "Snehal",
+                    "Parth"
+                ]
+            },
+            {
+                "designation": "CTO",
+                "users": [
+                    "Robert",
+                    "Victoria",
+                    "Kevin",
+                    "Jennifer"
+                ]
+            },
+            {
+                "designation": "CEO",
+                "users": [
+                    "Thomas",
+                    "Rebecca",
+                    "Olivia",
+                    "Nicholas"
+                ]
+            },
+            {
+                "designation": "Senior Recruiters",
+                "users": [
+                    "Anirudh",
+                    "Tanvi",
+                    "Rajesh",
+                    "Sonia"
+                ]
+            },
+            {
+                "designation": "Intern",
+                "users": [
+                    "Pooja",
+                    "Naina",
+                    "Vivek",
+                    "Ashwin"
+                ]
+            },
+            {
+                "designation": "Software Developer",
+                "users": [
+                    "Jason",
+                    "William",
+                    "Melissa",
+                    "Hannah"
+                ]
+            }
+        ],
+        "ClientPriorityAccess": [
+            {
+                "designation": "CRM",
+                "users": [
+                    {
+                        "userName": "Admin Vybog",
+                        "priority": [
+                            "Hot",
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Nandhakumar Sri",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Kartik",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Yash",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Varun",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Gaurav",
+                        "priority": [
+                            "Hot",
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Aditya",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Pranav",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Kavya",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Sakshi",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Zoya",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Radhika",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Brandon",
+                        "priority": [
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Charles",
+                        "priority": [
+                            "Hot"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Team Leads",
+                "users": [
+                    {
+                        "userName": "Gaurav",
+                        "priority": [
+                            "Hot",
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Aditya",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Pranav",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Kavya",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Sakshi",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Zoya",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Radhika",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Brandon",
+                        "priority": [
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Charles",
+                        "priority": [
+                            "Hot"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Recruiter",
+                "users": [
+                    {
+                        "userName": "Amit",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Neha",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Suresh",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Divya",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Sneha",
+                        "priority": [
+                            "Warm"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Director of Operations",
+                "users": [
+                    {
+                        "userName": "Michael",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Samantha",
+                        "priority": [
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "David",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Emily",
+                        "priority": [
+                            "Warm"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Administrator",
+                "users": [
+                    {
+                        "userName": "Rohit",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Nikhil",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Priya",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Vikram",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Senior Bench Sales Manager",
+                "users": [
+                    {
+                        "userName": "Suraj",
+                        "priority": [
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Manish",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Deepika",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Harsha",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Content Head",
+                "users": [
+                    {
+                        "userName": "Nidhi",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Aishwarya",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Rakesh",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Varsha",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Client Relationship Executive",
+                "users": [
+                    {
+                        "userName": "Megha",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Vinay",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Swati",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Ajay",
+                        "priority": [
+                            "Cool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Software Tester",
+                "users": [
+                    {
+                        "userName": "Suman",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Arjun",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Riya",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Preeti",
+                        "priority": []
+                    }
+                ]
+            },
+            {
+                "designation": "Internship",
+                "users": [
+                    {
+                        "userName": "Ankita",
+                        "priority": [
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Rahul",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Snehal",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Parth",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "CTO",
+                "users": [
+                    {
+                        "userName": "Robert",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Victoria",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Kevin",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Jennifer",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "CEO",
+                "users": [
+                    {
+                        "userName": "Thomas",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Rebecca",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Olivia",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Nicholas",
+                        "priority": [
+                            "Hot",
+                            "Warm"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Senior Recruiters",
+                "users": [
+                    {
+                        "userName": "Anirudh",
+                        "priority": [
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Tanvi",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Rajesh",
+                        "priority": [
+                            "Warm"
+                        ]
+                    },
+                    {
+                        "userName": "Sonia",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    }
+                ]
+            },
+            {
+                "designation": "Intern",
+                "users": [
+                    {
+                        "userName": "Pooja",
+                        "priority": [
+                            "Warm",
+                            "Cool"
+                        ]
+                    },
+                    {
+                        "userName": "Varun",
+                        "priority": [
+                            "Hot"
+                        ]
+                    },
+                    {
+                        "userName": "Akash",
+                        "priority": []
+                    },
+                    {
+                        "userName": "Jasmine",
+                        "priority": [
+                            "Hot",
+                            "Cool"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}
